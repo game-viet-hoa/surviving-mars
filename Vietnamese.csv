@@ -13,18 +13,18 @@ ID,Text,Translation
 1000008,Do you want to delete all <ModLabel> files?,
 1000010,Please confirm the deletion of item '<u(name)>'!,
 1000011,There is an active Steam upload,
-1000592,Error,
+1000592,Error,Lỗi
 1000009,Confirmation,
 1000012,Mod <ModLabel> will be uploaded to Steam,
 1000013,Mod <ModLabel> was not uploaded to Steam. Code: <err>,
-1000593,Error,
+1000593,Error,Lỗi
 1000014,Mod <ModLabel> was successfully uploaded to Steam!,
 1000018,Tags,
 1000019,Preview image,
-1000021,Steam ID,
-1000022,Author,
-1000023,Version,
-1000024,Game version,
+1000021,Steam ID,Steam ID
+1000022,Author,Tác giả
+1000023,Version,Phiên bản
+1000024,Game version,Phiên bản Game
 1000025,Mod '<title>',
 1000026,"<u(title)> (loaded)
 id <u(id)>, version <version>",
@@ -46,10 +46,10 @@ id <u(id)>, version <version></color>",
 1000039,<color 128 128 128><u(description)></color> <u(name)> <color 0 0 255><u(comment)></color>,
 1000040,Please enter a valid name,
 1000041,A code item with that name already exists,
-1000042,File name,
+1000042,File name,Tên tệp
 1000044,Error creating <file_name>,
-1000594,Error,
-1000045,Information,
+1000594,Error,Lỗi
+1000045,Information,Thông tin
 1000046,Your code has been loaded and is currently active in the game.,
 1000047,Copy from,
 1000050,Invalid entity filename,
@@ -71,11 +71,11 @@ id <u(id)>, version <version></color>",
 1000065,Failed to open entity file <u(filename)>,
 1000098,Default value,
 1000101,Modified value,
-1000103,Filename,
-1000106,Info,
-1000104,<id>,
+1000103,Filename,Tên tệp
+1000106,Info,Thông tin
+1000104,<id>,<id>
 1000105,<id> <color 0 128 0><ValueText>,
-1000107,Mod,
+1000107,Mod,Mod
 1000109,Template,
 1000111,General,
 1000207,Misc,
@@ -84,16 +84,16 @@ id <u(id)>, version <version></color>",
 1000209,Unspecified error occurred (code %s1). The game will now close.,
 1000210,You need a supported DX11-compatible video card with updated drivers to play this game.,
 1000211,Failed to initialize video mode.,
-1000114,Error,
+1000114,Error,Lỗi
 1000115,You need DirectX 11 and a DirectX 11-compatible graphics card to run this game.,
 1000116,You need an OpenGL 4.1-capable graphics card to run this game.,
 1000117,You need an OpenGL 4.5-capable graphics card to run this game.,
 1000118,Failed to initialize graphics subsystem.,
 1000597,"An error has occurred: ""<err>/<context>""",
-1000598,Error,
+1000598,Error,Lỗi
 1000212,<arg1>:<arg2>:<arg3>,
 1000213,<arg1>:<arg2>,
-1000685,",",
+1000685,",",","
 1000686,Brazilian Portuguese,
 1000687,Bulgarian,
 1000688,Czech,
@@ -121,17 +121,17 @@ id <u(id)>, version <version></color>",
 1000710,Auto,
 1000119,<FormatResolution(pt)>,
 1000121,Default,
-1000122,Display,
-1000123,DISPLAY,
-1000124,Video,
-1000125,VIDEO,
-1000126,Audio,
-1000127,AUDIO,
-1000128,Controls,
-1000129,CONTROLS,
-1000131,GAMEPLAY,
-1000132,Key Bindings,
-1000133,KEY BINDINGS,
+1000122,Display,Hiển thị
+1000123,DISPLAY,HIỂN THỊ
+1000124,Video,Đồ họa
+1000125,VIDEO,ĐỒ HỌA
+1000126,Audio,Âm thanh
+1000127,AUDIO,ÂM THANH
+1000128,Controls,Điều khiển
+1000129,CONTROLS,ĐIỀU KHIỂN
+1000131,GAMEPLAY,GAMEPLAY
+1000132,Key Bindings,Cài đặt phím
+1000133,KEY BINDINGS,CÀI ĐẶT PHÍM
 1000134,Change Profile,
 1000135,CHANGE PROFILE,
 1000217,Checking for downloadable content... Please wait.,
@@ -235,7 +235,7 @@ id <u(id)>, version <version></color>",
 1000255,Download error,
 1000256,"Download failed, please try again later.",
 1000257,Connected to <host>:<port>,
-1000258, game <game>,
+1000258,game <game>,
 1000259,<newline>sent <events_sent_ps> received <events_received_ps>,
 1000260,<newline>Advance limit <advance>(<more>),
 1000618,Idle,
@@ -417,20 +417,20 @@ id <u(id)>, version <version></color>",
 1000423,Changing map to <map>,
 1000424,Connection established,
 1000425,Pause,
-1000426,OK,
+1000426,OK,OK
 1000427,Cancel,
 1000428,Enter Text Here:,
-1000429,OK,
+1000429,OK,OK
 1000430,Cancel,
-1000431,OK,
+1000431,OK,OK
 1000432,Cancel,
-1000433,OK,
+1000433,OK,OK
 1000434,Server,
 1000435,Game,
 1000436,Map,
 1000437,Username,
 1000438,Password,
-1000439,OK,
+1000439,OK,OK
 1000440,Cancel,
 1000441,Join Net Game,
 1000442,Controls:,
@@ -466,70 +466,70 @@ id <u(id)>, version <version></color>",
 1000461,PrtScr,
 1000462,Insert,
 1000463,Delete,
-1000464,0,
-1000465,1,
-1000466,2,
-1000467,3,
-1000468,4,
-1000469,5,
-1000470,6,
-1000471,7,
-1000472,8,
-1000473,9,
-1000474,A,
-1000475,B,
-1000476,C,
-1000477,D,
-1000478,E,
-1000479,F,
-1000480,G,
-1000481,H,
-1000482,I,
-1000483,J,
-1000484,K,
-1000485,L,
-1000486,M,
-1000487,N,
-1000488,O,
-1000489,P,
-1000490,Q,
-1000491,R,
-1000492,S,
-1000493,T,
-1000494,U,
-1000495,V,
-1000496,W,
-1000497,X,
-1000498,Y,
-1000499,Z,
-1000500,Numpad 0,
-1000501,Numpad 1,
-1000502,Numpad 2,
-1000503,Numpad 3,
-1000504,Numpad 4,
-1000505,Numpad 5,
-1000506,Numpad 6,
-1000507,Numpad 7,
-1000508,Numpad 8,
-1000509,Numpad 9,
-1000510,Numpad *,
-1000511,Numpad +,
-1000512,Numpad Enter,
-1000513,Numpad -,
-1000514,Numpad .,
-1000515,Numpad /,
-1000516,F1,
-1000517,F2,
-1000518,F3,
-1000519,F4,
-1000520,F5,
-1000521,F6,
-1000522,F7,
-1000523,F8,
-1000524,F9,
-1000525,F10,
-1000526,F11,
-1000527,F12,
+1000464,0,0
+1000465,1,1
+1000466,2,2
+1000467,3,3
+1000468,4,4
+1000469,5,5
+1000470,6,6
+1000471,7,7
+1000472,8,8
+1000473,9,9
+1000474,A,A
+1000475,B,B
+1000476,C,C
+1000477,D,D
+1000478,E,E
+1000479,F,F
+1000480,G,G
+1000481,H,H
+1000482,I,I
+1000483,J,J
+1000484,K,K
+1000485,L,L
+1000486,M,M
+1000487,N,N
+1000488,O,O
+1000489,P,P
+1000490,Q,Q
+1000491,R,R
+1000492,S,S
+1000493,T,T
+1000494,U,U
+1000495,V,V
+1000496,W,W
+1000497,X,X
+1000498,Y,Y
+1000499,Z,Z
+1000500,Numpad 0,Numpad 0
+1000501,Numpad 1,Numpad 1
+1000502,Numpad 2,Numpad 2
+1000503,Numpad 3,Numpad 3
+1000504,Numpad 4,Numpad 4
+1000505,Numpad 5,Numpad 5
+1000506,Numpad 6,Numpad 6
+1000507,Numpad 7,Numpad 7
+1000508,Numpad 8,Numpad 8
+1000509,Numpad 9,Numpad 9
+1000510,Numpad *,Numpad *
+1000511,Numpad +,Numpad +
+1000512,Numpad Enter,Numpad Enter
+1000513,Numpad -,Numpad -
+1000514,Numpad .,Numpad .
+1000515,Numpad /,Numpad /
+1000516,F1,F1
+1000517,F2,F2
+1000518,F3,F3
+1000519,F4,F4
+1000520,F5,F5
+1000521,F6,F6
+1000522,F7,F7
+1000523,F8,F8
+1000524,F9,F9
+1000525,F10,F10
+1000526,F11,F11
+1000527,F12,F12
 1000528,Num Lock,
 1000529,Scroll Lock,
 1000530,Pause,
@@ -539,18 +539,18 @@ id <u(id)>, version <version></color>",
 1000534,R Ctrl,
 1000535,L Alt,
 1000536,R Alt,
-1000537,;,
-1000538,=,
-1000539,",",
-1000540,-,
-1000541,+,
-1000542,.,
-1000543,/,
-1000544,~,
-1000545,[,
-1000546,\,
-1000547,],
-1000548,',
+1000537,;,;
+1000538,=,=
+1000539,",",","
+1000540,-,-
+1000541,+,+
+1000542,.,.
+1000543,/,/
+1000544,~,~
+1000545,[,[
+1000546,\,\
+1000547,],]
+1000548,','
 1000160,Lwin,
 1000161,Rwin,
 1000162,Menu,
@@ -617,11 +617,11 @@ id <u(id)>, version <version></color>",
 1000678,Detach <actor>,
 1000588,Orient <actor> <color 0 128 0><comment>,
 1000565,Place <classname> <color 0 128 0><comment>,
-1000666,(<spot_type>) ,
+1000666,(<spot_type>),
 1000667,Define slot <groups> <spots><color 0 128 0><comment>,
 1000684,<vars> = Select slot <group>,
 1000715,Visit selected <obj> <spot>,
-1000670, (fallback: <group_fallback>),
+1000670,(fallback: <group_fallback>),
 1000671,Visit slot <group><fallback>,
 1000166,<class> <color 0 128 0><comment>,
 1000187,Group <color 0 128 0><comment>,
@@ -666,7 +666,7 @@ id <u(id)>, version <version></color>",
 1000204,View,
 1000205,New File,
 1000206,Open File,
-131428313273,-----,
+131428313273,-----,-----
 238591151127,Exit,
 1000237,Please select installation type,
 1000238,Not enough free disk space in,
@@ -1229,7 +1229,7 @@ This technological challenge to take advantage of what little wind there is on M
 5336,"- Start with a Rare Metal deposit revealed
 - Extractor production increased by 10%
 - Bonus Tech: <em>Deep Scanning</em> (allows the scanning of sectors for deep deposits)",
-5337,Rocket Scientist,
+5337,Rocket Scientist,Nhà khoa học tên lửa
 5338,"- Start with an extra Rocket
 - Bonus Tech: <em>CO2 Jet Propulsion</em> (unlocks Shuttle Hub and long-range transportation)",
 6987,Leaf Crops,
@@ -1630,19 +1630,19 @@ Each wonder is unique and can be constructed only once.",
 174129126515,1000 Colonists,
 833327755106,Constructed a Mega Dome,
 781931111320,Constructed a Wonder,
-5474,Mars Express,
-5475,Voyager,
-5476,Final Countdown,
-1620,Serenity,
-5477,Mr. Handy,
-5478,Curiosity,
-5479,One Small Step,
-5480,Mars U.,
-5481,Family Values,
-5482,Paradox,
-8119,Brussels Sprouts,
-8651,Don't Panic,
-7021,International Mars Mission,
+5474,Mars Express,Mars Express
+5475,Voyager,Voyager
+5476,Final Countdown,Final Countdown
+1620,Serenity,Serenity
+5477,Mr. Handy,Mr. Handy
+5478,Curiosity,Curiosity
+5479,One Small Step,One Small Step
+5480,Mars U.,Mars U.
+5481,Family Values,Family Values
+5482,Paradox,Paradox
+8119,Brussels Sprouts,Brussels Sprouts
+8651,Don't Panic,Don't Panic
+7021,International Mars Mission,Sứ mệnh sao Hỏa Quốc tế
 7022,"Difficulty: <em>Very Easy</em>
 
 Funding: $<funding> M
@@ -1753,7 +1753,7 @@ Starting Applicants: <ApplicantsPoolStartingSize>
 - Discover more Breakthrough Anomalies
 - Researching a Breakthrough Tech grants Applicants
 - Rockets require more fuel to launch <em>(drawback)</em>",
-3490,Random,
+3490,Random,Ngẫu nhiên
 5500,Welcome to Mars!,
 5501,"Let's <em>designate a landing site</em> for the rocket! A promising area has already been scanned for resources.
 Select the Rocket from the highlighted icon at the bottom of your screen.",
@@ -2357,7 +2357,7 @@ Concrete extractors must be placed over sulfur-rich regolith deposits - the yell
 
 <hint>The Founder <ColonistName(colonist)> has the <em>Enthusiast</em> trait.",
 7101,That's the spirit!,
-7102,Gambling Midst The Stars ,
+7102,Gambling Midst The Stars,
 7104,The first Colonists are all gamblers coming to Mars. It's the ultimate roll of the dice.,
 7103,"They travel through 50 million miles to a rocky, inhospitable world and try to bend it to humanity's will. <ColonistName(colonist)> , on the other hand, seems to also be a gambler in the more traditional sense. 
 
@@ -2422,7 +2422,7 @@ We should be able to paint a general picture of their purpose after investing so
 
 <effect> <em>Purpose of the Spheres</em> research available.",
 5743,Can’t decide if this is good news or bad.,
-5744,Spheres: Climate Change ,
+5744,Spheres: Climate Change,
 5745,"What or who needs to lower the atmospheric temperature of contemporary Mars is beyond any of us – yet it is most evident that the Spheres are effective at what they are doing. 
 
 If we want to stop the change, we must find a breakthrough based on what we already know and learn how to control or cancel this process.
@@ -2447,7 +2447,7 @@ When our scientists give up on trying to determine the origin of these Spheres, 
 5749,The end of an era.,
 7115,Warning,
 4164,"Mods are player created software packages that modify your game experience. USE THEM AT YOUR OWN RISK! We do not examine, monitor, support or guarantee this user created content. You should take all precautions you normally take regarding downloading files from the Internet before using mods.",
-7116,OK,
+7116,OK,OK
 7117,Warning,
 4189,Are you sure you want to delete the savegame <savename>?,
 7118,Warning,
@@ -2462,7 +2462,7 @@ When our scientists give up on trying to determine the origin of these Spheres, 
 5750,Unidentified error while saving <savename>!,
 7123,Warning,
 4188,The savegame is corrupted.,
-1000136,OK,
+1000136,OK,OK
 5751,A New Beginning,
 7124,"Full of hope and determination, the first Founders have set foot on the Red Planet.",
 5752,"The next 10 Sols will be full of difficulties and dangers, but also with great promises and opportunities. It is now to us to prove that Mars can be a doorway to greater riches and the future of the human civilization. Even the most epic adventures begin with a single step.
@@ -2504,7 +2504,7 @@ We are already swarmed with applications for relocation on Mars and the wanderlu
 7766,The save data limit for this game was reached. Delete old save data or disable Autosave from the Options menu.,
 7130,Warning,
 7881,Autosave failed.<newline>Error code: <error_code>.,
-7127,OK,
+7127,OK,OK
 7154,Humanity had such high hopes and we failed them. We failed the Founders. But is this really the end?,
 5766,"Failure's just another step in the process. The only thing is to dust ourselves off and try again. And when the future generations return to Mars, our experience, our mistakes and achievements will help them succeed where we could not.
 
@@ -2521,7 +2521,7 @@ We are already swarmed with applications for relocation on Mars and the wanderlu
 Mission Sponsor: <em><sponsor_name></em>
 
 Commander Profile: <em><commander_name></em>",
-1011,Close,
+1011,Close,Đóng
 7826,Legal Agreements,
 7827,"Welcome to Surviving Mars!
 
@@ -2552,7 +2552,7 @@ Before you get started, please take a moment to read our Terms of Use and Privac
 5785,"The geological team couldn't wait to get their hands on the samples, but this was going to prevent the engineering team from smelting the materials for their ceaseless operations. The experts at Mission Control argued for hours, but the course of action was clear.",
 5786,Study the Chromium deposit. (Engineering research boost: 10%),
 5788,Exploit the deposit. (deep Rare Metals deposit),
-7160,Someone joked we found kryptonite. It was because of the greenish-yellow hue of the beryl crystals. ,
+7160,Someone joked we found kryptonite. It was because of the greenish-yellow hue of the beryl crystals.,
 5790,"The contrast with the red Martian dust made them appear almost alien. Even if they wouldn't make any of the Colonists superhuman, they would surely give us almost supernatural powers!
 
 Our plans at Mission Control included the introduction of a long-term nuclear energy solution for the growing Colony, and the Beryllium that we would produce from these minerals would be an immense help in this difficult mission. We would encase the nuclear fuel rods of our nuclear reactors in Beryllium and make a good use of its incredible mechanical, chemical and nuclear properties.
@@ -2859,7 +2859,7 @@ Not quite sure what to make of this, they express hope we will retain our creati
 5929,We didn't get to the bottom of the mystery of the Black Cubes. Perhaps more decisive action was needed.,
 7197,<red>The mystery of the Cubes remains unresolved</red>,
 5930,Power of Three: For the Generations to Witness,
-7996,The cubes can’t be ignored. ,
+7996,The cubes can’t be ignored.,
 5931,"It would be irresponsible to mismanage the situation and leave public opinion to sway back and forth on the matter.
 
 With the current state of events we lack sufficient data to judge the purpose of the cubes. It could take years if not generations of scientific research to reach a conclusion on that subject. Until then, we will attempt to control the erratic spread of the cubes which hampers our resources and colonization operations by storing them away in a convenient manner.",
@@ -3432,7 +3432,7 @@ Moreover, the creator of the Dreamer hypothesis which led us here has filed an a
 <hint>Children of Dreamers have a better chance to be born Dreamers.
 
 <effect>A Genius Colonist has been added to the Applicant pool.",
-7230,The Dreamer Brainwave project confirmed the hypothesis. ,
+7230,The Dreamer Brainwave project confirmed the hypothesis.,
 6154,Our scientists have concluded that the chance to become a Dreamer is hereditary.,
 6155,Inner Light: Abrupt Wake Up,
 6156,"Hypnotic suggestions and therapy can gradually cure the patient to an almost completely functional state. Some of the Chief Staff at Mission Control suggested that we should allow the spread of Dreamers to continue in order to explore the strange events related to the Mirages.
@@ -3873,7 +3873,7 @@ So far we can see no adequate way to help from here.
 8166,We will be following the situation closely.,
 8167,The terrorist bombings are igniting tensions around the world. The UN has set out a tension meter and warns of a global conflict.,
 8168,The Last War: Peacemaker,
-8169,Our sponsor has informed us that it's now playing a major role in peacekeeping efforts. They are also providing humanitarian aid to vast territories that are affected by the crisis. ,
+8169,Our sponsor has informed us that it's now playing a major role in peacekeeping efforts. They are also providing humanitarian aid to vast territories that are affected by the crisis.,
 8170,"Millions have been displaced and food is of severe shortage. 
 
 We have been given a heads up that resource supply from Earth will soon become unavailable for an unspecified amount of time. Now all eyes on Earth are on <reg_param1> and there are those who will benefit greatly by branding them hypocritical in their commitment and intentions - hampering all progress towards peace.  
@@ -4144,7 +4144,7 @@ The Wildfire Cure remains our hot lead towards the way the disease worked. By st
 8552,The Wildfire infection has been eradicated on Earth! People all over the globe rejoice and praise your adequate actions!,
 8349,Refuel and load with Wildfire Cure to sell to Earth and gain Funding.,
 1115,Cargo Rocket,
-8350, <funding(reg_param1)>,
+8350,<funding(reg_param1)>,
 8351,Wildfire: Safe Space,
 8353,Our brave colonists waited for their brethren on Earth to be cured before they have received relief from the burden of the disease. The colonists would surely be happy to hear that the threat is eliminated – it will raise their spirits high!,
 8354,It’s a day for celebration!,
@@ -4237,7 +4237,7 @@ Spring City - a farming settlement on Ganymede with the potential to feed humani
 8395,Spring City Trade Rocket,
 8556,Spring City project has advanced,
 8396,Beyond Earth: Aldrin Base Operational,
-8397,Aldrin Base has been completed! The Hydrogen 3 mining facility is fully functional and has begun exporting energy to Earth. ,
+8397,Aldrin Base has been completed! The Hydrogen 3 mining facility is fully functional and has begun exporting energy to Earth.,
 8398,"Earth celebrates a full independence of fossil fuel based energy sources and has a now virtually endless power supply coming from the Moon available for everyone. 
 
 The technologies needed to transit power to far off posts like our colony is still a ways off, but we are given schematics to improve on our Fusion Reactors, based on the perfected design used at the Aldrin Base.
@@ -4772,7 +4772,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>""You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes.""</grey>",
 6520,BREAKTHROUGH,
-6521,Construction Nanites ,
+6521,Construction Nanites,
 6522,"<em>Buildings</em> construct themselves slowly without Drones. Nanites will seek out resources from nearby resource depots.
 
 <grey>With a payload of several molecules and an electronic instrument used for both navigating and knowing its purpose, Construction Nanites form slightly saturated winds which to the casual observer would seem to erect buildings as if by magic.</grey>",
@@ -4807,7 +4807,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6535,"When a colonist suffers a Sanity breakdown, they fall asleep and wake up after <param1> hours with <param2> Sanity. Colonists can't commit suicide or gain flaws due to sanity breakdown.
 
 <grey>Failsafe systems have been in place and used to prevent catastrophes in various fields for centuries. Until now we had no viable way of remotely detecting when the brain was headed towards a meltdown. A means to remotely render people unconscious, however, was already available.</grey>",
-6536,Hive Mind ,
+6536,Hive Mind,
 6537,"Residents in the <em>Arcology</em> get a bonus to work performance based on the number of unique perks and specializations of colonists living in the Arcology.
 
 <grey>""The tools that a society uses to create and maintain itself are as central to human life as a hive is to bee life. Though the hive is not part of any individual bee, it is part of the colony, both shaped by and shaping the lives of its inhabitants.""
@@ -5627,7 +5627,7 @@ Services: <em><list></em>",
 814,Sulfur-rich regolith. Processed into Concrete by a Concrete Extractor,
 815,Polymers Deposit,
 816,Scattered Polymers. Harvested by Drones or RC Transports.,
-817,Resource ,
+817,Resource,
 637,Prefab,
 818,Density 1,
 819,Density 2,
@@ -5671,7 +5671,7 @@ Services: <em><list></em>",
 7513,Locked by research.,
 7514,Upgrade already constructed. Current status: <working>,
 7515,Upgrade is under construction.,
-7516,Upgrade construction cost: ,
+7516,Upgrade construction cost:,
 7517,<description><newline><newline><status>,
 7519,<left_click>,
 7520,<shortcut> Turn off<newline><shortcut2> Turn off in all <display_name_pl>,
@@ -6018,8 +6018,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 - Mega Dome: The most advanced and spacious dome design.",
 1080,Surviving Mars Platinum Trophy,
 1081,Collected all remaining Surviving Mars trophies,
-7808,Credits,
-7809,CREDITS,
+7808,Credits,Tác giả
+7809,CREDITS,TÁC GIẢ
 8057,Switch To Controller?,
 7810,Do you want to command the game with a controller?,
 7872,There are colonists suffering from status effects.,
@@ -7461,7 +7461,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 2542,Noa,
 2543,Mao,
 2544,Yua,
-2545,Ayane ,
+2545,Ayane,
 2546,Hiyori,
 2547,Misaki,
 2548,Yuzuki,
@@ -8355,10 +8355,10 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8692,Status <number>,
 3543,Sponsor nation name <number>,
 3544,Sponsor nation percent <number>,
-3548,Borderless,
+3548,Borderless,Không viền
 3549,Exclusive,
-3547,Windowed,
-3550,Fullscreen,
+3547,Windowed,Cửa sổ
+3550,Fullscreen,Toàn màn hình
 7375,High,
 6843,Custom,
 7376,High,
@@ -8390,12 +8390,12 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3559,ms,
 3560,Move Units,
 3561,Both,
-3562,Fullscreen Mode,
-1601,Resolution,
-3563,Refresh Rate,
-3564,Vsync,
-3565,UI Scale,
-3566,Brightness,
+3562,Fullscreen Mode,Chế độ màn hình
+1601,Resolution,Độ phân giải
+3563,Refresh Rate,Tỉ lệ làm tươi
+3564,Vsync,Vsync
+3565,UI Scale,Tỉ lệ giao diện
+3566,Brightness,Độ sáng
 3568,Shadows,
 3569,Textures,
 3570,Anisotropy,
@@ -9079,7 +9079,7 @@ Some features may not work.",
 4197,Sponsor: <sharp_yellow><value></sharp_yellow>,
 4198,Commander Profile: <sharp_yellow><value></sharp_yellow>,
 4200,Active mods: <sharp_yellow><value></sharp_yellow>,
-4191,DEL to delete. ,
+4191,DEL to delete.,
 4192,<grey><hint>PgUp/PgDn or <middle_click> for prev/next page.</grey>,
 6905,Warning,
 4190,Unable to delete <name>,
@@ -9100,7 +9100,7 @@ Some features may not work.",
 4231,Get,
 4232,Get =>,
 4233,<= Remove,
-4234,Selected ,
+4234,Selected,
 6914,OK,
 6915,Cancel,
 4251,Meteor,
@@ -9341,11 +9341,11 @@ Some features may not work.",
 6970,Off,
 6971,Off,
 6972,Off,
-1000120,<arg1> x <arg2>,
+1000120,<arg1> x <arg2>,<arg1> x <arg2>
 6973,Off,
 3956,Research <em><tech_name></em> to unlock this building.,
-263,Cost: ,
-3959,Consumption: ,
+263,Cost:,
+3959,Consumption:,
 3960,"Maintenance: <resource(maintenance_resource_amount,maintenance_resource_type)>",
 3961,Residential space: <colonist(capacity)>,
 3962,Comfort (all Residences): +<Stat(dome_comfort)>,
@@ -9353,9 +9353,9 @@ Some features may not work.",
 3964,<em>Workers:</em> <colonist(workers)> (single work shift),
 3965,<em>Workers:</em> <colonist(total)> (<colonist(workers)> per work shift),
 3966,Base production: <icon_Food> based on crop,
-3967,Base production: ,
+3967,Base production:,
 3957,for each 5 hexes-long section,
-8099,<colonist(workers)> ,
+8099,<colonist(workers)>,
 3968,You can only build this building once.,
 3969,Available prefabs: <number>,
 3970,"You need prefab parts for this building. Use a resupply Rocket to bring more <em>prefabs</em> from Earth, or research the corresponding <em>Technology</em>.",
@@ -9432,27 +9432,27 @@ Some features may not work.",
 6884,Warning,
 4089,Video mode change,
 4090,The video mode has been changed. Keep changes?,
-3474,Mission Sponsor,
-3475,MISSION SPONSOR,
+3474,Mission Sponsor,Nhà tài trợ sứ mệnh
+3475,MISSION SPONSOR,NHÀ TÀI TRỢ SỨ MỆNH
 3476,"The patron country or organization standing behind the Mars mission. Grants funding, research and other benefits to colony.",
 3477,<ButtonA> Choose Sponsor,
-3478,Commander Profile,
+3478,Commander Profile,Hồ sơ Chỉ huy
 3479,COMMANDER PROFILE,
 3480,The mission commander grants various benefits to the colony.,
 3481,<ButtonA> Choose Commander,
-3482,Colony Logo,
-3483,COLONY LOGO,
+3482,Colony Logo,Biểu tượng thuộc địa
+3483,COLONY LOGO,BIỂU TƯỢNG THUỘC ĐỊA
 3484,This is an aesthetic choice that has no effect on gameplay.,
 3485,<ButtonA> Choose Logo,
-3486,Mystery,
-3487,MYSTERY,
+3486,Mystery,Huyền bí
+3487,MYSTERY,HUYỀN BÍ
 3488,Select an active storyline for this playthrough.,
 3489,<ButtonA> Choose Mystery,
-3546,Starting Rockets: <rockets>,
+3546,Starting Rockets: <rockets>,Tên lửa bắt đầu: <rockets>
 4065,<color 203 120 30><font PGLandingPosName><name></font></color><newline>,
 4069,Rename Rocket,
 7560,<h RenameRocket Rename>,
-6898,<h RenameRocket Rename>< image <img> 2000 > ,
+6898,<h RenameRocket Rename>< image <img> 2000 >,
 4162,</h>,
 6880,Warning,
 6881,Are you sure you want to buy a new Rocket for <funding(price)>?,
@@ -9478,7 +9478,7 @@ Some features may not work.",
 599355083725,Unlocked <white><unlocked> / <total>,
 583679719179,<display_name>,
 328491723397,CLOSE,
-4262,Difficulty Bonus <white><percent(DifficultyBonus)></white>,
+4262,Difficulty Bonus <white><percent(DifficultyBonus)></white>,Thưởng độ khó <white><percent(DifficultyBonus)></white>
 347194033198,<DomeName>,
 837650465667,<DomeSubtitle>,
 5446,PREVIOUS DOME,
@@ -9569,39 +9569,39 @@ Some features may not work.",
 4046,Pin this item to the quick bar.,
 4032,Open the corresponding Encyclopedia article.,
 7384,Encyclopedia,
-7412,<DisplayName>,
-957712410031,<IPDescription>,
-608042494285,<left_click> Activate,
-7656,<left_click> Activate,
-643294919927,<ButtonA> Activate,
-840063956526,<DisplayName>,
-6895,OK,
+7412,<DisplayName>,<DisplayName>
+957712410031,<IPDescription>,<IPDescription>
+608042494285,<left_click> Activate,<left_click> Kích hoạt
+7656,<left_click> Activate,<left_click> Kích hoạt
+643294919927,<ButtonA> Activate,<ButtonA> Kích hoạt
+840063956526,<DisplayName>,<DisplayName>
+6895,OK,OK
 433085262825,MILESTONES,
 700087753666,DIFFICULTY BONUS <white><percent(rating)>,
 841674688207,"SCORE <white><sum(0, 'ChallengeScore')>",
-611518845262,<CompleteText>,
-940959765296,"<def(ChallengeScore,'')>",
+611518845262,<CompleteText>,<CompleteText>
+940959765296,"<def(ChallengeScore,'')>","<def(ChallengeScore,'')>"
 1125,TAG: <tag>,
-5458,ALL ON,
-5459,ALL OFF,
+5458,ALL ON,BẬT TẤT CẢ
+5459,ALL OFF,TẮT TẤT CẢ
 5460,FILTER,
-526116656618,<display_name>,
+526116656618,<display_name>,<display_name>
 1142,Controller Layout,
 7874,Wireless Controller Layout,
-5470,AUTO DETECT,
-5468,RESTORE DEFAULTS,
-5469,RESET TO DEFAULTS,
-5447,APPLY,
-1126,EASY START,
-1127,NEW GAME,
-1129,MOD MANAGER,
-1130,MOD EDITOR,
-498260347235,ACHIEVEMENTS,
+5470,AUTO DETECT,TỰ ĐỘNG PHÁT HIỆN
+5468,RESTORE DEFAULTS,KHÔI PHỤC MẶC ĐỊNH
+5469,RESET TO DEFAULTS,ĐẶT VỀ MẶC ĐỊNH
+5447,APPLY,ÁP DỤNG
+1126,EASY START,KHỞI ĐẦU DỄ DÀNG
+1127,NEW GAME,GAME MỚI
+1129,MOD MANAGER,QUẢN LÝ MOD
+1130,MOD EDITOR,CHỈNH SỬA MOD
+498260347235,ACHIEVEMENTS,THÀNH TỰU
 4132,<LS> Select landing spot,
 4133,<left_click> Select landing spot,
-5462,CUSTOM,
-5461,RANDOM,
-5452,START,
+5462,CUSTOM,TÙY CHỌN
+5461,RANDOM,NGẪU NHIÊN
+5452,START,BẮT ĐẦU
 482503373345,<white><Coord></white>,
 609979737076,Average Altitude <white><Altitude> m</white><newline>Mean Temperature <white><Temperature>°C</white><newline>Topography <white><MapDifficulty></white>,
 4271,THREATS,
@@ -9610,10 +9610,10 @@ Some features may not work.",
 954934126187,Cargo Capacity <white><Capacity> kg</white><newline>Funding <white><funding(Funding)></white>,
 253829683975,Cargo Capacity <white><Capacity> kg</white><newline>Funding <white><funding(Funding)></white><newline>Available Rockets <white><AvailableRockets>/<TotalRockets></white>,
 4159,PAYLOAD,
-5453,NEXT,
-4265,EFFECTS,
+5453,NEXT,TIẾP
+4265,EFFECTS,HIỆU ỨNG
 350571528070,<Effects>,
-4525,PARADOX ACCOUNT,
+4525,PARADOX ACCOUNT,TÀI KHOẢN PARADOX
 8670,PARADOX ACCOUNT - LOGGING IN...,
 8540,PARADOX ACCOUNT - LOGGED IN,
 7732,PARADOX ACCOUNT - LINKED,
@@ -9630,7 +9630,7 @@ Some features may not work.",
 494688646361,PAUSE,
 326024522451,RESUME,
 415232371915,<pin_summary1>,
-498175633247,On,
+498175633247,On,Bật
 222832671596,Off,
 7875,(  ),
 702142953137,RADIO STATION,
@@ -9678,31 +9678,31 @@ Some features may not work.",
 5455,BUY APPLICANTS,
 5463,REVIEW,
 5448,CLEAR,
-4254,BACK,
+4254,BACK,QUAY LẠI
 1117,CATEGORIES,
 4071,Review Applicants,
 4253,LAUNCH,
 836192190578,<SyncInfo>,
 4182,<<< New Savegame >>>,
-5467,SAVE,
-5466,LOAD,
-5471,DELETE GAME,
-5451,DELETE,
-5450,CANCEL,
-986382737958,Version: <u(LuaRevision)>,
-4523,CLOSE,
-1133,SAVE GAME,
-1128,LOAD GAME,
-1131,OPTIONS,
+5467,SAVE,TẢI
+5466,LOAD,LƯU
+5471,DELETE GAME,XÓA GAME
+5451,DELETE,XÓA
+5450,CANCEL,HỦY BỎ
+986382737958,Version: <u(LuaRevision)>,Phiên bản: <u(LuaRevision)>
+4523,CLOSE,ĐÓNG
+1133,SAVE GAME,LƯU GAME
+1128,LOAD GAME,TẢI GAME
+1131,OPTIONS,TÙY CHỌN
 1134,PHOTO MODE,
 5473,ENCYCLOPEDIA,
-496720013568,ACHIEVEMENTS,
+496720013568,ACHIEVEMENTS,THÀNH TỰU
 1135,RESTART MAP,
 1136,Restart Map,
 1137,Are you sure you want to restart the map?,
-1140,MAIN MENU,
+1140,MAIN MENU,MENU CHÍNH
 6779,Warning,
-1132,QUIT,
+1132,QUIT,THOÁT
 4252,Autosaving...,
 492,Amount of stored Black Cubes.,
 493,"<resource('BlackCube' )><right><blackcube(Stored_BlackCube, MaxAmount_BlackCube)>",
@@ -9730,7 +9730,7 @@ Some features may not work.",
 6738,Construct Biorobot,
 354,<left_click> Construct Biorobot<newline><right_click> Cancel Biorobot,
 353,<ButtonA> Construct Biorobot<newline><ButtonX> Cancel Biorobot,
-408,Construction,
+408,Construction,Xây dựng
 410,<UIConstructionStatus>,
 8646,Available Drone Prefabs<right><drone(available_drone_prefabs)>,
 8539,Scheduled Drone Prefabs<right><drone(drones_in_construction)>,
@@ -10226,9 +10226,9 @@ Current status: Exports are <em>forbidden</em>.",
 3613,Funding,
 8064,Mystery Resource,
 8065,Mystery Resource Description,
-7697,<em>Effect:</em> ,
-4774,<em>Hint:</em> ,
-4773,<em>Goal:</em> ,
+7697,<em>Effect:</em>,
+4774,<em>Hint:</em>,
+4773,<em>Goal:</em>,
 4776,Too young to work but can study at a School,
 4778,Too young to work but can be trained to become a specialist at an University.,
 4780,An adult Colonist,
@@ -10300,7 +10300,7 @@ Current status: Exports are <em>forbidden</em>.",
 1234,Dome,
 4832,Night Light,
 4833,Movement,
-4834,<percentage>%,
+4834,<percentage>%,<percentage>%
 4835,<value><resource_icon>,
 4836,<prefix><n><postfix>,
 4837,<prefix><n>.<d1><postfix>,
@@ -10310,9 +10310,9 @@ Current status: Exports are <em>forbidden</em>.",
 4841,<em><sols> Sols</em>,
 4842,/<int>,
 4843,/<int>.<frac>,
-4844,<int>,
+4844,<int>,<int>
 4845,<int>.<frac>,
-6981,-,
+6981,-,-
 4847,<value>k,
 4848,<value>.<rem>k,
 4849,<value>.<rem>K,
@@ -10684,7 +10684,7 @@ In what almost seems as an apathetic effort to move on, <reg_param1> has informe
 8548,"A ceasefire was signed, but Earth is caught in the grip of a new Cold War. All resupply prices have been increased.",
 8549,The war is over! Sound minds and human compassion emerged victorious.,
 8280,The Last War: Peace-keepers Prevail!,
-8281,Hatred has lost! Sound minds and human compassion emerge victorious. ,
+8281,Hatred has lost! Sound minds and human compassion emerge victorious.,
 8282,"The Drums of War have ceased their relentless beating and those who survived the wars are looking at the death and destruction it caused. 
 
 Never has it been so obvious how little a spark can wipe out our race once and for all and this has reached the heart of every human soul on Earth. 
