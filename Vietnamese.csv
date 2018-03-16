@@ -2,7 +2,7 @@ ID,Text,Translation
 1000590,Game Progress,
 1000001,Enter Mod Title,
 1000002,No name provided,
-1000591,Error,
+1000591,Error,Lỗi
 1000003,Copying <ModLabel> to <u(path)>,
 1000004,Confirm Copy,
 1000005,Mod '<u(title)>' files will be copied to <u(path)>,
@@ -366,7 +366,7 @@ id <u(id)>, version <version></color>",
 1000370,],
 1000371,',
 1000372,<current_page> / <total_pages>,
-1000620,Warning,
+1000620,Warning,Cảnh báo
 1000621,Windows Input Method Editor may cause flickering when in Fullscreen.,
 1000373,"droid, 12, aa",
 1000374,"Mikadan Custom, 22, aa",
@@ -923,7 +923,7 @@ id <u(id)>, version <version></color>",
 5117,Large Monument,
 5118,Large Monuments,
 5119,A decorative monument created from the mysterious Black Cubes. Definitely not a place of worship.,
-5120,Large Solar Panel,
+5120,Large Solar Panel,Pin mặt trời cỡ lớn
 5121,Generates Power during daytime. Its effectiveness is decreased by dust accumulation and during Dust Storms. Protected from dust while turned off.,
 4813,MDS Laser,
 5123,MDS Lasers,
@@ -1019,14 +1019,14 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5202,Polymers Depot,
 5203,Polymers Depots,
 5204,Stores <polymers(max_storage_per_resource)>. Excess resources will be delivered automatically to other depots within Drone range.,
-5205,Power Accumulator,
-5206,Power Accumulators,
+5205,Power Accumulator,Ắc qui điện
+5206,Power Accumulators,Ắc qui điện
 5207,Stores Power. Amount of Power supplied is limited by the battery’s max output.,
 5208,Power Decoy,
 5209,Power Decoys,
 5210,Traps a single Mirror Sphere.,
-885,Power Switch,
-5211,Power Switches,
+885,Power Switch,Công tắc điện
+5211,Power Switches,Công tắc điện
 5212,Can be manually activated to cut off the Power supply.,
 5213,Project Morpheus,
 5214,Projects Morpheus,
@@ -1048,12 +1048,12 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5230,Recharge Stations,
 5231,Recharges Drone batteries.,
 5234,+<upgrade2_mul_value_2>% Production; +<power(upgrade2_add_value_1)> Consumption.,
-5235,Research Lab,
-5236,Research Labs,
+5235,Research Lab,Viện nghiên cứu
+5236,Research Labs,Viện nghiên cứu
 5237,Generates Research.,
-705,<left_click> Land Rocket,
-706,<ButtonA> Land Rocket,
-5238,Rockets,
+705,<left_click> Land Rocket,<left_click> Hạ cánh tên lửa
+706,<ButtonA> Land Rocket,<ButtonA> Hạ cánh tên lửa
+5238,Rockets,Tên lửa
 5239,Delivers cargo or Colonists to Mars. Commands nearby Drones. Contaminates nearby buildings with dust when landing and taking off. Requires <em>Fuel</em> for the return trip to Earth.,
 5240,Rocket Landing Site,
 5241,Rocket Landing Sites,
@@ -1091,8 +1091,8 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5006,+<upgrade1_add_value_1> Service Comfort.,
 5270,Smart Homes,
 5271,Provides a very comfortable living space for Colonists. Residents will recover additional Sanity when resting.,
-5274,Solar Panel,
-5275,Solar Panels,
+5274,Solar Panel,Pin mặt trời
+5275,Solar Panels,Pin mặt trời
 5276,Generates Power during daytime. Its effectiveness is decreased by dust accumulation and during sand storms. Protected from dust while turned off.,
 1120,Space Elevator,
 5277,Space Elevators,
@@ -1136,8 +1136,8 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5312,Stores Water. Doesn't work during Cold Waves.,
 5313,Polymer Blades,
 5314,+<upgrade1_mul_value_1>% Production.,
-5315,Wind Turbine,
-5316,Wind Turbines,
+5315,Wind Turbine,Tua bin gió
+5316,Wind Turbines,Tua bin gió
 5317,Generates Power. Increased production during Dust Storms and at high elevations.,
 5318,"Wind turbines generate electrical power from the Martian winds. The amount generated depends on how powerful the winds they are exposed to are, so proper positioning is essential as higher ground tends to be windier.
 
@@ -1956,9 +1956,9 @@ Suggested Building: <em>Infirmary</em>",
 7437,Time remaining: unknown,
 7044,Meteor Shower incoming,
 5620,Meteor Storm,
-5621,No Active Research,
-5622,Select a Tech to research,
-7045,No active Research,
+5621,No Active Research,Không có hoạt động nghiên cứu
+5622,Select a Tech to research,Chọn một công nghệ để nghiên cứu
+7045,No active Research,Không có hoạt động nghiên cứu
 5623,Incoming Meteor,
 5624,Cycle through impact positions,
 7046,Meteor incoming,
@@ -2445,22 +2445,22 @@ When our scientists give up on trying to determine the origin of these Spheres, 
 <effect> No more Spheres are left.
 <effect> Cold Wave dispelled.",
 5749,The end of an era.,
-7115,Warning,
+7115,Warning,Cảnh báo
 4164,"Mods are player created software packages that modify your game experience. USE THEM AT YOUR OWN RISK! We do not examine, monitor, support or guarantee this user created content. You should take all precautions you normally take regarding downloading files from the Internet before using mods.",
 7116,OK,OK
-7117,Warning,
+7117,Warning,Cảnh báo
 4189,Are you sure you want to delete the savegame <savename>?,
-7118,Warning,
+7118,Warning,Cảnh báo
 4183,Are you sure you want to overwrite <savename>?,
-7119,Warning,
+7119,Warning,Cảnh báo
 8049,Unable to delete <name>.,
-7120,Warning,
+7120,Warning,Cảnh báo
 4187,Could not load <name>.,
-7121,Warning,
+7121,Warning,Cảnh báo
 4184,Not enough space to create savegame <savename>!,
-7122,Warning,
+7122,Warning,Cảnh báo
 5750,Unidentified error while saving <savename>!,
-7123,Warning,
+7123,Warning,Cảnh báo
 4188,The savegame is corrupted.,
 1000136,OK,OK
 5751,A New Beginning,
@@ -2492,17 +2492,17 @@ We are already swarmed with applications for relocation on Mars and the wanderlu
 5759,Looks live we’ve got a serious adventure ahead of us!,
 5661,Mystery Log,
 5760,....,
-7129,Warning,
+7129,Warning,Cảnh báo
 5761,Are you sure you want to cancel the Rocket’s launch order?,
 4165,Back,
 5762,Exit game,
 4168,Are you sure you want to exit the game?,
-1141,Exit to the main menu?,
-1138,Yes,
-1139,No,
+1141,Exit to the main menu?,Thoát ra Menu chính?
+1138,Yes,Đồng ý
+1139,No,Không
 7765,There is not enough storage space. Delete old save data or disable Autosave from the Options menu.,
 7766,The save data limit for this game was reached. Delete old save data or disable Autosave from the Options menu.,
-7130,Warning,
+7130,Warning,Cảnh báo
 7881,Autosave failed.<newline>Error code: <error_code>.,
 7127,OK,OK
 7154,Humanity had such high hopes and we failed them. We failed the Founders. But is this really the end?,
@@ -4354,7 +4354,7 @@ As with all change, there will be resistance. There are those who prosper from w
 
 To them I have to say: the world is moving on. Try as you might, you have only slowed down an irreversible process.”",
 8563,A setback. We will overcome it!,
-6318,BIOTECH,
+6318,BIOTECH,CÔNG NGHỆ SINH HỌC
 6319,"The <em>Biotech</em> field deals with <em>Food</em> production, <em>life support</em> and <em>medicine</em>.",
 6320,Hygroscopic Vaporators,
 6321,"Moisture Vaporator Upgrade (<em>Hygroscopic Coating</em>) - Water production increased by <param1>%.
@@ -5206,7 +5206,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 64,Loading resources at target coordinates,
 7610,Waiting for repairs,
 8028,Undergoing repairs,
-66,Out of power,
+66,Out of power,Mất điện
 67,Loading resources,
 68,<green>Charging battery from Power grid</green>,
 69,"Trying to recharge battery, insufficient Power",
@@ -5220,9 +5220,9 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6724,Roaming,
 6725,Attacking,
 6726,Reloading,
-78,Infrastructure,
-82,Storages,
-84,"Homes, Education & Research",
+78,Infrastructure,Cơ sở hạ tầng
+82,Storages,Kho chứa
+84,"Homes, Education & Research","Nhà ở, Giáo dục & Nghiên cứu"
 85,Dome Services,
 86,Dome Spires,
 1000155,Hidden,
@@ -8564,7 +8564,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3680,Immediately scans a Sector for deposits and Anomalies.<DeepScanWarning><newline><newline>Available Orbital Probes<right><NumProbes>,
 3681,<left_click> Select Sector,
 7882,<PinRolloverGamepadHint>,
-3683,<NumProbes>,
+3683,<NumProbes>,<NumProbes>
 3682,<ButtonA> Overview,
 8569,<ButtonA> Select Sector,
 3684,<newline><em>Deep scanning of the Sector is not possible with the current technology</em>,
@@ -8579,7 +8579,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 7543,Conquering Mars as <sponsor_name>,
 8081,The game can not be loaded because some required downloadable content is not installed.,
 3685,This savegame is from an old version and may not function properly.,
-6851,Warning,
+6851,Warning,Cảnh báo
 8082,"The following mods are missing or outdated:
 
 <mods>
@@ -8929,7 +8929,7 @@ Some features may not work.",
 1124,<tag> (<count>),
 6900,OK,
 3687,Cancel,
-6899,Warning,
+6899,Warning,Cảnh báo
 8080,Restart,
 8496,Activating or deactivating mods requires a restart.,
 3988,Image Preview,
@@ -8955,40 +8955,40 @@ Some features may not work.",
 7888,<newline><ButtonA> Activate,
 7889,<newline><ButtonX> Dismiss,
 7582,Notifications,
-7712,Email,
-254784121325,Password,
-4121,Confirm Password,
-4125,Country,
+7712,Email,Email
+254784121325,Password,Mật khẩu
+4121,Confirm Password,Xác nhận mật khẩu
+4125,Country,Thành phố
 7709,YYYY,
-7713,Year of Birth,
+7713,Year of Birth,Năm sinh
 7710,MM,
 7714,Month,
 7711,DD,
 7715,Day,
-7716,Read Terms of Use,
-7717,Read Privacy Policy,
-7718,Agree to the Terms of Use and Privacy Policy,
+7716,Read Terms of Use,Đọc Điều khoản sử dụng
+7717,Read Privacy Policy,Đọc Chính sách riêng tư
+7718,Agree to the Terms of Use and Privacy Policy,Chấp nhận Điều khoản sử dụng và Chính sách riêng tư
 8499,Subscribe to Newsletter,
 7719,current,
-7720,Steam,
-7721,Microsoft,
-7722,Sony<nbsp>Entertainment<nbsp>Network,
+7720,Steam,Steam
+7721,Microsoft,Microsoft
+7722,Sony<nbsp>Entertainment<nbsp>Network,Sony<nbsp>Entertainment<nbsp>Network
 7724,This will link your Paradox account to your <account_type> account. Do you want to proceed?,
-4087,Your account is now linked,
-8500,Login successful,
+4087,Your account is now linked,Tài khoản của bạn bây giờ đã được liên kết
+8500,Login successful,Đăng nhập thành công
 7725,Unlink Paradox Account,
 7726,Are you sure you want to unlink your <account_type> account from your Paradox account?,
-8501,Logout successful,
+8501,Logout successful,Đăng xuất thành công
 7727,Your account has been unlinked,
-7723,Link Account,
+7723,Link Account,Liên kết tài khoản
 7728,This will link your newly created Paradox account to your <account_type> account. Do you want to proceed?,
 4088,Account created successfully,
-1000015,Success,
+1000015,Success,Thành công
 4524,<h Link ParadoxFeed>,
-6886,S,
-6887,N,
-6888,E,
-6889,W,
+6886,S,S
+6887,N,N
+6888,E,E
+6889,W,W
 1103,Colony Site,
 4128,<clr><font PGLandingPosName><name></font></color><newline>,
 4129,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><font PreGamePlanetCoordinatesHint><control_img> Move spot</font>,
@@ -9022,7 +9022,7 @@ Some features may not work.",
 4153,<color 203 120 30><font PGLandingPosName><name></font></color>,
 4092,Custom coordinates,
 4093,Invalid coordinates.,
-6885,Error,
+6885,Error,Lỗi
 6855,Voiced Text,
 3793,Body Text,
 6856,Log Entry,
@@ -9081,14 +9081,14 @@ Some features may not work.",
 4200,Active mods: <sharp_yellow><value></sharp_yellow>,
 4191,DEL to delete.,
 4192,<grey><hint>PgUp/PgDn or <middle_click> for prev/next page.</grey>,
-6905,Warning,
+6905,Warning,Cảnh báo
 4190,Unable to delete <name>,
-6906,Warning,
+6906,Warning,Cảnh báo
 7729,Are you sure you want to load this savegame? You will lose your current game progress.,
 7771,Required content not available: Paradox Mission Sponsor. Log into your Paradox account to unlock it,
 8649,Please update the game to the latest version to load this savegame.,
-6904,Warning,
-6901,Warning,
+6904,Warning,Cảnh báo
+6901,Warning,Cảnh báo
 7778,"The save data limit for this game was reached. To save your progress, delete old save data.",
 7779,"There is not enough storage space. To save your progress, delete old save data.",
 4185,Unidentified error while saving <savename>!<newline>Error code: <error_code>,
@@ -9173,7 +9173,7 @@ Some features may not work.",
 6935,Not looking for a job,
 4366,Workplace<right>Unemployed,
 7550,<em><trait></em>,
-7551,<trait>,
+7551,<trait>,<trait>
 7552,No traits,
 4383,Traits are the individual characteristics of the Colonists.,
 4384,<newline><em><trait></em>: <descr>,
@@ -9215,7 +9215,7 @@ Some features may not work.",
 4336,Studying in <h SelectWorkplace InfopanelSelect><WorkplaceDisplayName></h>,
 4337,Treated in <h SelectWorkplace InfopanelSelect><WorkplaceDisplayName></h>,
 4340,No available interaction,
-4341,<value>,
+4341,<value>,<value>
 4388,Drone Battery Capacity,
 666,Freeze Time,
 667,Freeze Heat,
@@ -9396,23 +9396,23 @@ Some features may not work.",
 7851,<em><ShortcutName('actionColonyOverview')></em> - toggle Colony Overview,
 4017,Pause the game.,
 4018,<em><ShortcutName('actionPauseGame')>:</em> Pause/unpause,
-6869,Pause,
-4019,Normal,
-4020,Play at normal speed.,
-4022,Fast,
-4023,Play at three times normal speed.,
+6869,Pause,Tạm dừng
+4019,Normal,Bình thường
+4020,Play at normal speed.,Chơi với tốc độ bình thường.
+4022,Fast,Nhanh
+4023,Play at three times normal speed.,Chơi với tốc độ nhanh hơn 3 lần bình thường.
 4021,<em><ShortcutName('actionSpeedUp')>/<ShortcutName('actionSpeedDown')>:</em> Change game speed,
-4024,Fastest,
-4025,Play at five times normal speed.,
+4024,Fastest,Nhanh nhất
+4025,Play at five times normal speed.,Chơi với tốc độ nhanh hơn 5 lần bình thường.
 4026,Solar Date,
 4027,Hour <hour> of Sol <day>.<newline><newline>Martian days consist of nearly 25 Earth hours.,
 4028,Solar Time: <white>Hour <hour> of Sol <day></white>,
 8104,Martian days consist of nearly 25 Earth hours.,
 4029,"Represents the total number of Drones in your colony. The Drones are automated units controlled by Drone Hubs, Rovers and Rockets.",
 4030,"Represents the total number of Colonists in your Colony. Colonists live within Domes and require Air, Water and Food to survive.",
-4031,Sol <day>,
+4031,Sol <day>,Sol <day>
 8664,Uper Item definition,
-3545,<ButtonA> Select,
+3545,<ButtonA> Select,<ButtonA> Chọn
 7331,Infopanel,
 7557,<DPad>    Navigates the infopanel sections,
 7680,<LB> / <RB>    Decrease / increase service radius,
@@ -9429,7 +9429,7 @@ Some features may not work.",
 4080,Conflicting controls,
 4082,Do you want to rebind <key> from <old_action> to <new_action>?,
 4091,Changes could not be applied and will be reverted.,
-6884,Warning,
+6884,Warning,Cảnh báo
 4089,Video mode change,
 4090,The video mode has been changed. Keep changes?,
 3474,Mission Sponsor,Nhà tài trợ sứ mệnh
@@ -9454,7 +9454,7 @@ Some features may not work.",
 7560,<h RenameRocket Rename>,
 6898,<h RenameRocket Rename>< image <img> 2000 >,
 4162,</h>,
-6880,Warning,
+6880,Warning,Cảnh báo
 6881,Are you sure you want to buy a new Rocket for <funding(price)>?,
 7546,Insufficient funding! You need <funding(price)> to purchase a Rocket!,
 1109,Prefab Buildings,
@@ -9535,7 +9535,7 @@ Some features may not work.",
 292941424864,Request maintenance,
 748588275043,Last Notification,
 614477738289,Last Constructed Building,
-881,Power Cables,
+881,Power Cables,Dây diện
 882,Pipes,
 554083515055,CHEATS,
 867595017482,<display_name>,
@@ -9625,54 +9625,54 @@ Some features may not work.",
 816278241152,CREATE ACCOUNT,
 919878375490,PHOTO MODE,
 730563403228,<text>,
-954580699514,TAKE SCREENSHOT,
-357021532351,TOGGLE UI,
-494688646361,PAUSE,
-326024522451,RESUME,
-415232371915,<pin_summary1>,
+954580699514,TAKE SCREENSHOT,CHỤP ẢNH
+357021532351,TOGGLE UI,BẬT TẮT GIAO DIỆN
+494688646361,PAUSE,TẠM DỪNG
+326024522451,RESUME,TIẾP TỤC
+415232371915,<pin_summary1>,<pin_summary1>
 498175633247,On,Bật
-222832671596,Off,
+222832671596,Off,Tắt
 7875,(  ),
 702142953137,RADIO STATION,
 717950591874,Volume,
 135513074411,<display_name>,
 942201510325,"In exchange for <funding(OutsourceResearchCost)> Funding, outsourced researchers will contribute <ResearchPoints(OutsourceResearch)> in the next <time(OutsourceResearchTime)>.",
 889032422791,OUTSOURCE,
-6882,Warning,
+6882,Warning,Cảnh báo
 7876,Are you sure you want to outsource research to Earth?,
 7877,Outsource <ResearchPoints(points)> for <funding(price)> in the next <time(sols)>,
-6902,Warning,
+6902,Warning,Cảnh báo
 7562,Insufficient funding! <funding(price)> required for outsourcing!,
-4530,RESEARCH,
-4531,Available Funding <white><funding(Funding)>,
-4532,Research per Sol <white><ResearchPoints(EstimatedRP)>,
-4533,Sponsor<right><ResearchPoints(EstimatedRP_Sponsor)>,
-4534,Outsourcing<right><ResearchPoints(EstimatedRP_Outsource)>,
-4535,Research Labs<right><ResearchPoints(EstimatedRP_ResearchLab)>,
+4530,RESEARCH,NGHIÊN CỨU
+4531,Available Funding <white><funding(Funding)>,Kinh phí có sẵn <white><funding(Funding)>
+4532,Research per Sol <white><ResearchPoints(EstimatedRP)>,Nghiên cứu mỗi Sol <white><ResearchPoints(EstimatedRP)>
+4533,Sponsor<right><ResearchPoints(EstimatedRP_Sponsor)>,Nhà tài trợ<right><ResearchPoints(EstimatedRP_Sponsor)>
+4534,Outsourcing<right><ResearchPoints(EstimatedRP_Outsource)>,Thuê ngoài<right><ResearchPoints(EstimatedRP_Outsource)>
+4535,Research Labs<right><ResearchPoints(EstimatedRP_ResearchLab)>,Viện nghiên cứu<right><ResearchPoints(EstimatedRP_ResearchLab)>
 4536,Science Institutes<right><ResearchPoints(EstimatedRP_ScienceInstitute)>,
 4537,Genius Colonists<right><ResearchPoints(EstimatedRP_Genius)>,
-4538,Explorers<right><ResearchPoints(EstimatedRP_Explorer)>,
+4538,Explorers<right><ResearchPoints(EstimatedRP_Explorer)>,Thám hiểm<right><ResearchPoints(EstimatedRP_Explorer)>
 4539,Excess Power<right><ResearchPoints(EstimatedRP_SuperconductingComputing)>,
 556459376226,<display_name><right><em><ResearchBoostPercent>%,
-634036540793,<RB>,
-4540,RESEARCH QUEUE,
+634036540793,<RB>,<RB>
+4540,RESEARCH QUEUE,HÀNG CHỜ NGHIÊN CỨU
 7609,<display_name> (<FieldDisplayName>) <percent(p)>,
 3921,<description><newline><newline>Research cost<right><ResearchPoints(cost)>,
 3917,<display_name> (<FieldDisplayName>),
 3922,<right_click> Remove from Research queue,
 3924,<ButtonX> Remove from research queue,
-460245435559,<display_name>,
+460245435559,<display_name>,<display_name>
 4543,<FieldDisplayName><right><ResearchPoints(cost)>,
-385959075356,Empty slot,
-407610261475,<RocketTypeTitle>,
+385959075356,Empty slot,Ô trống
+407610261475,<RocketTypeTitle>,<RocketTypeTitle>
 198049262709,Cargo Capacity <white><Capacity> kg</white><newline>Funding <white><funding(Funding)></white><newline>Available Rockets <white><AvailableRockets>/<TotalRockets></white>,
 628712416014,Rockets unavailable.,
-8541,<PassengerRocketDisabledRolloverText>,
-8542,<PassengerRocketDisabledRolloverTitle>,
+8541,<PassengerRocketDisabledRolloverText>,<PassengerRocketDisabledRolloverText>
+8542,<PassengerRocketDisabledRolloverTitle>,<PassengerRocketDisabledRolloverTitle>
 855487073078,Space Elavator Unavailable.,
-5454,BUY ROCKET,
-817350877792,RENAME,
-454729036303,<RocketName>,
+5454,BUY ROCKET,MUA TÊN LỬA
+817350877792,RENAME,ĐỔI TÊN
+454729036303,<RocketName>,<RocketName>
 281313501676,<ApplicantsSubtitle>,
 432819623507,<ReviewSubtitle>,
 5455,BUY APPLICANTS,
@@ -9682,7 +9682,7 @@ Some features may not work.",
 1117,CATEGORIES,
 4071,Review Applicants,
 4253,LAUNCH,
-836192190578,<SyncInfo>,
+836192190578,<SyncInfo>,<SyncInfo>
 4182,<<< New Savegame >>>,
 5467,SAVE,TẢI
 5466,LOAD,LƯU
@@ -9694,16 +9694,16 @@ Some features may not work.",
 1133,SAVE GAME,LƯU GAME
 1128,LOAD GAME,TẢI GAME
 1131,OPTIONS,TÙY CHỌN
-1134,PHOTO MODE,
-5473,ENCYCLOPEDIA,
+1134,PHOTO MODE,CHẾ ĐỘ CHỤP ẢNH
+5473,ENCYCLOPEDIA,ENCYCLOPEDIA
 496720013568,ACHIEVEMENTS,THÀNH TỰU
-1135,RESTART MAP,
-1136,Restart Map,
-1137,Are you sure you want to restart the map?,
+1135,RESTART MAP,CHƠI LẠI BẢN ĐỒ
+1136,Restart Map,Chơi lại bản đồ
+1137,Are you sure you want to restart the map?,Chắc chắn muốn chơi lại bản đồ này?
 1140,MAIN MENU,MENU CHÍNH
-6779,Warning,
+6779,Warning,Cảnh báo
 1132,QUIT,THOÁT
-4252,Autosaving...,
+4252,Autosaving...,Tự động lưu...
 492,Amount of stored Black Cubes.,
 493,"<resource('BlackCube' )><right><blackcube(Stored_BlackCube, MaxAmount_BlackCube)>",
 535,Progress creating the next clone.,
@@ -9958,7 +9958,7 @@ Current status: Exports are <em>forbidden</em>.",
 185932970385,Losing <red><power(current_consumption)></red> each hour.,
 275032650428,Losing <red><water(current_consumption)></red> each hour.,
 958364317965,Losing <red><air(current_consumption)></red> each hour.,
-768796577102,<ActionDescr>,
+768796577102,<ActionDescr>,<ActionDescr>
 1197,Progress <right><percent(ProgressPct)>,
 1196,Sphere Powering Up,
 185981844766,No Drones in the vicinity.,
@@ -9970,27 +9970,27 @@ Current status: Exports are <em>forbidden</em>.",
 219125399224,No Power Accumulator in the vicinity.,
 1208,Feed with Power,
 1209,Divert energy towards the Mirror Sphere from a nearby Power Accumulator.,
-436167298715,<FundingRollover>,
+436167298715,<FundingRollover>,<FundingRollover>
 3617,Available funding<right><white><funding(Funding)></white>,
-491631842119,<ResearchRollover>,
+491631842119,<ResearchRollover>,<ResearchRollover>
 357380421238,Research,
 7873,Research per Sol<right><white><ResearchPoints(EstimatedRP)></white>,
-293266371918,<GridRollover>,
+293266371918,<GridRollover>,<GridRollover>
 3618,Grid Resources,
-195574843186,<PowerLine>,
-865218030019,<AirLine>,
-414702080411,<WaterLine>,
-973078040656,<BasicResourcesRollover>,
-3650,Metals<right><metals(AvailableMetals)>,
-3651,Concrete<right><concrete(AvailableConcrete)>,
-3652,Food<right><food(AvailableFood)>,
-3653,Rare Metals<right><preciousmetals(AvailablePreciousMetals)>,
-574634411619,<AdvancedResourcesRollover>,
-3669,Polymers<right><polymers(AvailablePolymers)>,
-3670,Electronics<right><electronics(AvailableElectronics)>,
-3671,Machine Parts<right><machineparts(AvailableMachineParts)>,
-3672,Fuel<right><fuel(AvailableFuel)>,
-10,<Description>,
+195574843186,<PowerLine>,<PowerLine>
+865218030019,<AirLine>,<AirLine>
+414702080411,<WaterLine>,<WaterLine>
+973078040656,<BasicResourcesRollover>,<BasicResourcesRollover>
+3650,Metals<right><metals(AvailableMetals)>,Kim loại<right><metals(AvailableMetals)>
+3651,Concrete<right><concrete(AvailableConcrete)>,Bê tông<right><concrete(AvailableConcrete)>
+3652,Food<right><food(AvailableFood)>,Lương thực<right><food(AvailableFood)>
+3653,Rare Metals<right><preciousmetals(AvailablePreciousMetals)>,Kim loại hiếm<right><preciousmetals(AvailablePreciousMetals)>
+574634411619,<AdvancedResourcesRollover>,<AdvancedResourcesRollover>
+3669,Polymers<right><polymers(AvailablePolymers)>,Polyme<right><polymers(AvailablePolymers)>
+3670,Electronics<right><electronics(AvailableElectronics)>,Linh kiện điện tử<right><electronics(AvailableElectronics)>
+3671,Machine Parts<right><machineparts(AvailableMachineParts)>,Thành phần máy móc<right><machineparts(AvailableMachineParts)>
+3672,Fuel<right><fuel(AvailableFuel)>,Nhiên liệu<right><fuel(AvailableFuel)>
+10,<Description>,<Description>
 370449987367,Priority affects how often this building is serviced by Drones as well as its share of Power and life support. Notifications are not shown for buildings with low priority.<newline><newline>Current priority: <em><UIPriority></em>,
 369,Change Priority,
 577516035564,<left><left_click> Increase priority<right><right_click> Decrease priority,
@@ -10223,7 +10223,7 @@ Current status: Exports are <em>forbidden</em>.",
 7985,Can be exported to Earth for Funding or processed into Electronics.,
 4764,Black Cubes,
 7986,Advanced resource produced in Fuel Refineries from Water. Required for the refuelling of Rockets. Highly explosive.,
-3613,Funding,
+3613,Funding,Kinh phí
 8064,Mystery Resource,
 8065,Mystery Resource Description,
 7697,<em>Effect:</em>,
@@ -10330,7 +10330,7 @@ Current status: Exports are <em>forbidden</em>.",
 4860,<em>$<integer>.<fractional> <suffix></em>,
 6761,None,
 8672,"This version of <em>Surviving Mars</em> doesn't yet support uploading mods you created, but you can test them in the game.",
-1000599,Warning,
+1000599,Warning,Cảnh báo
 8673,"This version of Surviving Mars doesn't yet support downloading mods. You can, however, try the modding tools to create and load your own mods.",
 4862,Low,
 646,Medium,
@@ -10582,7 +10582,7 @@ Current status: Exports are <em>forbidden</em>.",
 4762,'Other' sex chance,
 4763,Comfort penalty when failing to satisfy a need via a visit,
 337606533515,Threshold of accumulated stat points to trigger birth of a new Colonist,
-6774,Error,
+6774,Error,Lỗi
 950,Some downloadable content requires a game update in order to work.,
 951,Failed to complete operation.,
 952,Could not establish a connection with the Paradox server.,
