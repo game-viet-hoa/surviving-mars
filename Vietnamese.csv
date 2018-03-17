@@ -9,7 +9,7 @@ ID,Text,Translation
 1000719,Error creating folder <u(folder)>: <u(err)>,
 1000718,Error looking up files of <ModLabel>: <u(err)>,
 1000006,Error copying <u(file)>: <u(err)>,
-1000007,Are you sure?,
+1000007,Are you sure?,Bạn chắc chứ?
 1000008,Do you want to delete all <ModLabel> files?,
 1000010,Please confirm the deletion of item '<u(name)>'!,
 1000011,There is an active Steam upload,
@@ -51,7 +51,7 @@ id <u(id)>, version <version></color>",
 1000594,Error,Lỗi
 1000045,Information,Thông tin
 1000046,Your code has been loaded and is currently active in the game.,
-1000047,Copy from,
+1000047,Copy from,Sao chép từ
 1000050,Invalid entity filename,
 1000051,Failed to create path <u(entity_root)>,
 1000052,Importing entity <u(entity_name)>,
@@ -99,28 +99,28 @@ id <u(id)>, version <version></color>",
 1000688,Czech,
 1000689,Danish,
 1000690,Dutch,
-1000691,English,
+1000691,English,Tiếng Việt
 1000692,Finnish,
-1000693,French,
-1000694,German,
+1000693,French,Tiếng Pháp
+1000694,German,Tiếng Đức
 1000695,Hungarian,
 1000696,Italian,
-1000697,Japanese,
-1000698,Korean,
+1000697,Japanese,Tiếng Nhật
+1000698,Korean,Tiếng Hàn
 1000699,Norwegian,
-1000700,Polish,
-1000701,Portuguese,
+1000700,Polish,Tiếng Ba Lan
+1000701,Portuguese,Tiếng Bồ Đào Nha
 1000702,Romanian,
-1000703,Russian,
+1000703,Russian,Tiếng Nga
 1000704,Chinese (Simplified),
-1000705,Spanish,
-1000706,Swedish,
+1000705,Spanish,Tiếng Tây Ban Nha
+1000706,Swedish,Tiếng Thụy Điển
 1000707,Chinese (Traditional),
-1000708,Thai,
-1000709,Turkish,
-1000710,Auto,
-1000119,<FormatResolution(pt)>,
-1000121,Default,
+1000708,Thai,Tiếng Thái
+1000709,Turkish,Tiếng Thổ Nhĩ Kỳ
+1000710,Auto,Tự động
+1000119,<FormatResolution(pt)>,<FormatResolution(pt)>
+1000121,Default,Mặc định
 1000122,Display,Hiển thị
 1000123,DISPLAY,HIỂN THỊ
 1000124,Video,Đồ họa
@@ -192,9 +192,9 @@ id <u(id)>, version <version></color>",
 102672884722,Convert to Object,
 173123111544,Remove Duplicated,
 180179795778,Invert Selection,
-381730822640,Delete,
+381730822640,Delete,Xóa
 1000248,Remove Unselected,
-623390947398,Save,
+623390947398,Save,Lưu
 400353986243,Open Folder,
 186760604064,Test,
 342669996355,Upload,
@@ -234,7 +234,7 @@ id <u(id)>, version <version></color>",
 1000254,Cancel,
 1000255,Download error,
 1000256,"Download failed, please try again later.",
-1000257,Connected to <host>:<port>,
+1000257,Connected to <host>:<port>,Đã kết nối tới <host>:<port>
 1000258,game <game>,
 1000259,<newline>sent <events_sent_ps> received <events_received_ps>,
 1000260,<newline>Advance limit <advance>(<more>),
@@ -259,156 +259,156 @@ id <u(id)>, version <version></color>",
 1000264,<arg1> B,
 1000265,On,
 1000266,Off,
-1000267,(press any key),
+1000267,(press any key),(nhấn phím bất kỳ)
 1000268,None,
 1000269,Backspace,
-1000270,Tab,
-1000271,Enter,
-1000272,Shift,
-1000273,Ctrl,
-1000274,Alt,
-1000275,Caps Lock,
-1000276,Space,
-1000277,Pageup,
-1000278,Pagedown,
-1000279,End,
-1000280,Home,
+1000270,Tab,Tab
+1000271,Enter,Enter
+1000272,Shift,Shift
+1000273,Ctrl,Ctrl
+1000274,Alt,Alt
+1000275,Caps Lock,Caps Lock
+1000276,Space,Space
+1000277,Pageup,Pageup
+1000278,Pagedown,Pagedown
+1000279,End,End
+1000280,Home,Home
 1000281,Left,
 1000282,Up,
 1000283,Right,
 1000284,Down,
-1000285,PrtScr,
-1000286,Insert,
-1000287,Delete,
-1000288,0,
-1000289,1,
-1000290,2,
-1000291,3,
-1000292,4,
-1000293,5,
-1000294,6,
-1000295,7,
-1000296,8,
-1000297,9,
-1000298,A,
-1000299,B,
-1000300,C,
-1000301,D,
-1000302,E,
-1000303,F,
-1000304,G,
-1000305,H,
-1000306,I,
-1000307,J,
-1000308,K,
-1000309,L,
-1000310,M,
-1000311,N,
-1000312,O,
-1000313,P,
-1000314,Q,
-1000315,R,
-1000316,S,
-1000317,T,
-1000318,U,
-1000319,V,
-1000320,W,
-1000321,X,
-1000322,Y,
-1000323,Z,
-1000324,Numpad 0,
-1000325,Numpad 1,
-1000326,Numpad 2,
-1000327,Numpad 3,
-1000328,Numpad 4,
-1000329,Numpad 5,
-1000330,Numpad 6,
-1000331,Numpad 7,
-1000332,Numpad 8,
-1000333,Numpad 9,
-1000334,Numpad *,
-1000335,Numpad +,
-1000336,Numpad Enter,
-1000337,Numpad -,
-1000338,Numpad .,
-1000339,Numpad /,
-1000340,F1,
-1000341,F2,
-1000342,F3,
-1000343,F4,
-1000344,F5,
-1000345,F6,
-1000346,F7,
-1000347,F8,
-1000348,F9,
-1000349,F10,
-1000350,F11,
-1000351,F12,
-1000352,Num Lock,
-1000353,Scroll Lock,
-1000619,Pause,
-1000354,L Shift,
-1000355,R Shift,
-1000356,L Ctrl,
-1000357,R Ctrl,
-1000358,L Alt,
-1000359,R Alt,
-1000360,;,
-1000361,=,
-1000362,",",
-1000363,-,
-1000364,+,
-1000365,.,
-1000366,/,
-1000367,~,
-1000368,[,
-1000369,\,
-1000370,],
-1000371,',
+1000285,PrtScr,PrtScr
+1000286,Insert,Insert
+1000287,Delete,Delete
+1000288,0,0
+1000289,1,1
+1000290,2,2
+1000291,3,3
+1000292,4,4
+1000293,5,5
+1000294,6,6
+1000295,7,7
+1000296,8,8
+1000297,9,9
+1000298,A,A
+1000299,B,B
+1000300,C,C
+1000301,D,D
+1000302,E,E
+1000303,F,F
+1000304,G,G
+1000305,H,H
+1000306,I,I
+1000307,J,J
+1000308,K,K
+1000309,L,L
+1000310,M,M
+1000311,N,N
+1000312,O,O
+1000313,P,P
+1000314,Q,Q
+1000315,R,R
+1000316,S,S
+1000317,T,T
+1000318,U,U
+1000319,V,V
+1000320,W,W
+1000321,X,X
+1000322,Y,Y
+1000323,Z,Z
+1000324,Numpad 0,Numpad 0
+1000325,Numpad 1,Numpad 1
+1000326,Numpad 2,Numpad 2
+1000327,Numpad 3,Numpad 3
+1000328,Numpad 4,Numpad 4
+1000329,Numpad 5,Numpad 5
+1000330,Numpad 6,Numpad 6
+1000331,Numpad 7,Numpad 7
+1000332,Numpad 8,Numpad 8
+1000333,Numpad 9,Numpad 9
+1000334,Numpad *,Numpad *
+1000335,Numpad +,Numpad +
+1000336,Numpad Enter,Numpad Enter
+1000337,Numpad -,Numpad -
+1000338,Numpad .,Numpad .
+1000339,Numpad /,Numpad /
+1000340,F1,F1
+1000341,F2,F2
+1000342,F3,F3
+1000343,F4,F4
+1000344,F5,F5
+1000345,F6,F6
+1000346,F7,F7
+1000347,F8,F8
+1000348,F9,F9
+1000349,F10,F10
+1000350,F11,F11
+1000351,F12,F12
+1000352,Num Lock,Num Lock
+1000353,Scroll Lock,Scroll Lock
+1000619,Pause,Pause
+1000354,L Shift,Shift trái
+1000355,R Shift,Shift phải
+1000356,L Ctrl,Ctrl trái
+1000357,R Ctrl,Ctrl phải
+1000358,L Alt,Alt trái
+1000359,R Alt,Alt phải
+1000360,;,;
+1000361,=,=
+1000362,",",","
+1000363,-,-
+1000364,+,+
+1000365,.,.
+1000366,/,/
+1000367,~,~
+1000368,[,[
+1000369,\,\
+1000370,],]
+1000371,','
 1000372,<current_page> / <total_pages>,
 1000620,Warning,Cảnh báo
 1000621,Windows Input Method Editor may cause flickering when in Fullscreen.,
-1000373,"droid, 12, aa",
-1000374,"Mikadan Custom, 22, aa",
-1000375,"Mikadan Custom, 26, aa",
-1000376,"Mikadan Custom, 30, aa",
-1000377,"Mikadan Custom, 22, aa",
-1000378,"droid, 9, aa",
-1000379,"droid, 11, bold, aa",
-1000380,"droid, 11, aa",
-1000381,"droid, 12, bold, aa",
-1000382,"droid, 12, aa",
-1000383,"droid, 13, aa",
-1000384,"droid, 13, bold, aa",
-1000385,"droid, 14, aa",
-1000386,"droid, 14, bold, aa",
-1000387,"droid, 16, aa",
-1000388,"droid, 16, bold, aa",
-1000389,"droid, 17, aa",
-1000390,"droid, 17, bold, aa",
-1000391,"droid, 18, aa",
-1000392,"droid, 18, bold, aa",
-1000393,"droid, 21, bold, aa",
-1000394,"droid, 32, bold",
-1000622,"droid, 14, bold, aa",
-1000395,"droid, 18, bold, aa",
-1000396,"droid, 12, aa",
-1000397,"droid, 13, bold, aa",
-1000398,"droid, 14, aa",
-1000399,"droid, 14, bold, aa",
-1000400,"LibelSuitRg, 22, bold",
-1000401,"LibelSuitRg, 18",
-1000402,"LibelSuitRg, 20, bold",
-1000403,"LibelSuitRg, 20, bold",
-1000404,"LibelSuitRg, 22",
-1000405,"LibelSuitRg, 30, bold",
-1000672,"SchemeBk, 21, bold, aa",
-1000673,"SchemeBk, 19, bold, aa",
-1000674,"SchemeBk, 13, aa",
-1000163,<ButtonB> Skip,
+1000373,"droid, 12, aa","droid, 12, aa"
+1000374,"Mikadan Custom, 22, aa","Mikadan Custom, 22, aa"
+1000375,"Mikadan Custom, 26, aa","Mikadan Custom, 26, aa"
+1000376,"Mikadan Custom, 30, aa","Mikadan Custom, 30, aa"
+1000377,"Mikadan Custom, 22, aa","Mikadan Custom, 22, aa"
+1000378,"droid, 9, aa","droid, 9, aa"
+1000379,"droid, 11, bold, aa","droid, 11, bold, aa"
+1000380,"droid, 11, aa","droid, 11, aa"
+1000381,"droid, 12, bold, aa","droid, 12, bold, aa"
+1000382,"droid, 12, aa","droid, 12, aa"
+1000383,"droid, 13, aa","droid, 13, aa"
+1000384,"droid, 13, bold, aa","droid, 13, bold, aa"
+1000385,"droid, 14, aa","droid, 14, aa"
+1000386,"droid, 14, bold, aa","droid, 14, bold, aa"
+1000387,"droid, 16, aa","droid, 16, aa"
+1000388,"droid, 16, bold, aa","droid, 16, bold, aa"
+1000389,"droid, 17, aa","droid, 17, aa"
+1000390,"droid, 17, bold, aa","droid, 17, bold, aa"
+1000391,"droid, 18, aa","droid, 18, aa"
+1000392,"droid, 18, bold, aa","droid, 18, bold, aa"
+1000393,"droid, 21, bold, aa","droid, 21, bold, aa"
+1000394,"droid, 32, bold","droid, 32, bold"
+1000622,"droid, 14, bold, aa","droid, 14, bold, aa"
+1000395,"droid, 18, bold, aa","droid, 18, bold, aa"
+1000396,"droid, 12, aa","droid, 12, aa"
+1000397,"droid, 13, bold, aa","droid, 13, bold, aa"
+1000398,"droid, 14, aa","droid, 14, aa"
+1000399,"droid, 14, bold, aa","droid, 14, bold, aa"
+1000400,"LibelSuitRg, 22, bold","LibelSuitRg, 22, bold"
+1000401,"LibelSuitRg, 18","LibelSuitRg, 18"
+1000402,"LibelSuitRg, 20, bold","LibelSuitRg, 20, bold"
+1000403,"LibelSuitRg, 20, bold","LibelSuitRg, 20, bold"
+1000404,"LibelSuitRg, 22","LibelSuitRg, 22"
+1000405,"LibelSuitRg, 30, bold","LibelSuitRg, 30, bold"
+1000672,"SchemeBk, 21, bold, aa","SchemeBk, 21, bold, aa"
+1000673,"SchemeBk, 19, bold, aa","SchemeBk, 19, bold, aa"
+1000674,"SchemeBk, 13, aa","SchemeBk, 13, aa"
+1000163,<ButtonB> Skip,<ButtonB> Bỏ qua
 1000164,<image UI/Icons/action_esc.tga 2000> Skip,
-1000416,OK,
-1000417,OK,
+1000416,OK,OK
+1000417,OK,OK
 1000418,Cancel,
 1000419,Connecting to <host>:<port>,
 1000420,Error connecting to server: <err>,
@@ -447,25 +447,25 @@ id <u(id)>, version <version></color>",
 1000415,Japanese,
 1000444,<actor>: <text>,
 1000165,<class> <Id>,
-1000445,Backspace,
-1000446,Tab,
-1000447,Enter,
-1000448,Shift,
-1000449,Ctrl,
-1000450,Alt,
-1000451,Caps Lock,
-1000452,Space,
-1000453,Pageup,
-1000454,Pagedown,
-1000455,End,
-1000456,Home,
-1000457,Left,
-1000458,Up,
-1000459,Right,
-1000460,Down,
-1000461,PrtScr,
-1000462,Insert,
-1000463,Delete,
+1000445,Backspace,Backspace
+1000446,Tab,Tab
+1000447,Enter,Enter
+1000448,Shift,Shift
+1000449,Ctrl,Ctrl
+1000450,Alt,Alt
+1000451,Caps Lock,Caps Lock
+1000452,Space,Space
+1000453,Pageup,Pageup
+1000454,Pagedown,Pagedown
+1000455,End,End
+1000456,Home,Home
+1000457,Left,Left
+1000458,Up,Up
+1000459,Right,Right
+1000460,Down,Down
+1000461,PrtScr,PrtScr
+1000462,Insert,Insert
+1000463,Delete,Delete
 1000464,0,0
 1000465,1,1
 1000466,2,2
@@ -1996,17 +1996,17 @@ Suggested Building: <em>Infirmary</em>",
 3879,Earthsick,
 7055,<count> Colonists are Earthsick,
 7056,There are Earthsick Colonists,
-5648,Buildings Not Working,
-5649,Buildings not working: <count>,
+5648,Buildings Not Working,Công trình không làm việc
+5649,Buildings not working: <count>,Công trình không làm việc: <count>
 5650,Milestone achieved!,
-756643722601,<display_name>,
+756643722601,<display_name>,<display_name>
 7057,Milestone achieved,
 5651,New Techs are available for research,
 5652,Gained <research(points)>,
 5653,Research cost of all Techs reduced,
 7042,Anomaly analyzed,
-5654,Research Complete,
-3846,<name>,
+5654,Research Complete,Hoàn thành nghiên cứu
+3846,<name>,<name>
 7058,Research complete,
 5656,Cube countdown: <value> hours,
 7438,Sphere Unknown Event: <percent(value)>,
@@ -2491,12 +2491,12 @@ We are already swarmed with applications for relocation on Mars and the wanderlu
 <effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.",
 5759,Looks live we’ve got a serious adventure ahead of us!,
 5661,Mystery Log,
-5760,....,
+5760,....,....
 7129,Warning,Cảnh báo
 5761,Are you sure you want to cancel the Rocket’s launch order?,
-4165,Back,
-5762,Exit game,
-4168,Are you sure you want to exit the game?,
+4165,Back,Quay lại
+5762,Exit game,Thoát Game
+4168,Are you sure you want to exit the game?,Chắc chắn muốn thoát khỏi Game?
 1141,Exit to the main menu?,Thoát ra Menu chính?
 1138,Yes,Đồng ý
 1139,No,Không
@@ -2558,7 +2558,7 @@ Before you get started, please take a moment to read our Terms of Use and Privac
 Our plans at Mission Control included the introduction of a long-term nuclear energy solution for the growing Colony, and the Beryllium that we would produce from these minerals would be an immense help in this difficult mission. We would encase the nuclear fuel rods of our nuclear reactors in Beryllium and make a good use of its incredible mechanical, chemical and nuclear properties.
 
 <effect>The Technologies in the Physics tree gain a 10% Boost.",
-5791,Awesome!,
+5791,Awesome!,Tuyệt vời!
 7161,The rover manipulators held the silver-white mineral up to the camera just as the chemical analysis came through. We’ve found Tellurium.,
 5792,"In a moment, the Chief Engineer at Mission Control was at the communications station, urging instructions to the RC Explorer on how to handle and analyze the discovery. It was amusing to watch the almost childlike excitement in the eyes of the expert.
 
@@ -8921,13 +8921,13 @@ Some features may not work.",
 4169,MAPS,
 4170,MARS,
 4171,SPACE,
-1121,Author: <color_pref><value><color_suff>,
-1122,Last Update: <color_pref><value><color_suff>,
-1123,Tags: <color_pref><value><color_suff>,
+1121,Author: <color_pref><value><color_suff>,Tác giả: <color_pref><value><color_suff>
+1122,Last Update: <color_pref><value><color_suff>,Cập nhật lần cuối: <color_pref><value><color_suff>
+1123,Tags: <color_pref><value><color_suff>,Tag: <color_pref><value><color_suff>
 8689,This mod is disabled due to version incompatibility.,
 4074,This mod requires a newer game version!,
-1124,<tag> (<count>),
-6900,OK,
+1124,<tag> (<count>),<tag> (<count>)
+6900,OK,OK
 3687,Cancel,
 6899,Warning,Cảnh báo
 8080,Restart,
@@ -9432,7 +9432,7 @@ Some features may not work.",
 6884,Warning,Cảnh báo
 4089,Video mode change,
 4090,The video mode has been changed. Keep changes?,
-3474,Mission Sponsor,Nhà tài trợ sứ mệnh
+3474,Mission Sponsor,Nhà tài sợ sứ mệnh
 3475,MISSION SPONSOR,NHÀ TÀI TRỢ SỨ MỆNH
 3476,"The patron country or organization standing behind the Mars mission. Grants funding, research and other benefits to colony.",
 3477,<ButtonA> Choose Sponsor,
@@ -9474,16 +9474,16 @@ Some features may not work.",
 7731,<field> should be in the format <format>,
 7976,SKIP,
 1000159,Escape,
-856797454991,ACHIEVEMENTS,
+856797454991,ACHIEVEMENTS,THÀNH TỰU
 599355083725,Unlocked <white><unlocked> / <total>,
-583679719179,<display_name>,
-328491723397,CLOSE,
+583679719179,<display_name>,<display_name>
+328491723397,CLOSE,ĐÓNG
 4262,Difficulty Bonus <white><percent(DifficultyBonus)></white>,Thưởng độ khó <white><percent(DifficultyBonus)></white>
-347194033198,<DomeName>,
-837650465667,<DomeSubtitle>,
+347194033198,<DomeName>,<DomeName>
+837650465667,<DomeSubtitle>,<DomeSubtitle>
 5446,PREVIOUS DOME,
 5445,NEXT DOME,
-410148310585,<tag>,
+410148310585,<tag>,<tag>
 727272233433,Open Empty Map,
 4521,Open POC Map 1,
 722962309661,Open POC Map 2,
@@ -9584,7 +9584,7 @@ Some features may not work.",
 1125,TAG: <tag>,
 5458,ALL ON,BẬT TẤT CẢ
 5459,ALL OFF,TẮT TẤT CẢ
-5460,FILTER,
+5460,FILTER,LỌC
 526116656618,<display_name>,<display_name>
 1142,Controller Layout,
 7874,Wireless Controller Layout,
@@ -9632,7 +9632,7 @@ Some features may not work.",
 415232371915,<pin_summary1>,<pin_summary1>
 498175633247,On,Bật
 222832671596,Off,Tắt
-7875,(  ),
+7875,(  ),(  )
 702142953137,RADIO STATION,
 717950591874,Volume,
 135513074411,<display_name>,
