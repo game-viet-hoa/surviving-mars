@@ -19,13 +19,13 @@ ID,Text,Translation
 1000013,Mod <ModLabel> was not uploaded to Steam. Code: <err>,
 1000593,Error,Lỗi
 1000014,Mod <ModLabel> was successfully uploaded to Steam!,
-1000018,Tags,
+1000018,Tags,Tags
 1000019,Preview image,
 1000021,Steam ID,Steam ID
 1000022,Author,Tác giả
 1000023,Version,Phiên bản
 1000024,Game version,Phiên bản Game
-1000025,Mod '<title>',
+1000025,Mod '<title>',Mod '<title>'
 1000026,"<u(title)> (loaded)
 id <u(id)>, version <version>",
 1000027,"<color 128 128 128><u(title)>
@@ -44,7 +44,7 @@ id <u(id)>, version <version></color>",
 1000722,Certain mods are disabled because they are not supported by the current version of the game.,
 1000038,Comment,
 1000039,<color 128 128 128><u(description)></color> <u(name)> <color 0 0 255><u(comment)></color>,
-1000040,Please enter a valid name,
+1000040,Please enter a valid name,Vui lòng nhập tên hợp lệ
 1000041,A code item with that name already exists,
 1000042,File name,Tên tệp
 1000044,Error creating <file_name>,
@@ -69,12 +69,12 @@ id <u(id)>, version <version></color>",
 1000064,Mod: <ModLabel> Entity: Failed to load <u(entity)>,
 1000068,Image,
 1000065,Failed to open entity file <u(filename)>,
-1000098,Default value,
+1000098,Default value,Giá trị mặc định
 1000101,Modified value,
 1000103,Filename,Tên tệp
 1000106,Info,Thông tin
 1000104,<id>,<id>
-1000105,<id> <color 0 128 0><ValueText>,
+1000105,<id> <color 0 128 0><ValueText>,<id> <color 0 128 0><ValueText>
 1000107,Mod,Mod
 1000109,Template,
 1000111,General,
@@ -85,14 +85,14 @@ id <u(id)>, version <version></color>",
 1000210,You need a supported DX11-compatible video card with updated drivers to play this game.,
 1000211,Failed to initialize video mode.,
 1000114,Error,Lỗi
-1000115,You need DirectX 11 and a DirectX 11-compatible graphics card to run this game.,
+1000115,You need DirectX 11 and a DirectX 11-compatible graphics card to run this game.,Cần DirectX 11 và một VGA tương thích DirectX 11 để chơi game này.
 1000116,You need an OpenGL 4.1-capable graphics card to run this game.,
 1000117,You need an OpenGL 4.5-capable graphics card to run this game.,
 1000118,Failed to initialize graphics subsystem.,
 1000597,"An error has occurred: ""<err>/<context>""",
 1000598,Error,Lỗi
-1000212,<arg1>:<arg2>:<arg3>,
-1000213,<arg1>:<arg2>,
+1000212,<arg1>:<arg2>:<arg3>,<arg1>:<arg2>:<arg3>
+1000213,<arg1>:<arg2>,<arg1>:<arg2>
 1000685,",",","
 1000686,Brazilian Portuguese,
 1000687,Bulgarian,
@@ -146,10 +146,10 @@ id <u(id)>, version <version></color>",
 1000614,<gamer>’s controller has been disconnected. Please reconnect it in order to continue your game or press any button on the user’s new controller.,
 1000627,The active controller was disconnected. Please reconnect a controller which is not signed in to a profile in order to continue your game.,
 1000628,Controller disconnected,
-1000629,Continue,
+1000629,Continue,Tiếp tục
 1000630,Controller disconnected,
-1000631,Continue,
-1000178,Actions,
+1000631,Continue,Tiếp tục
+1000178,Actions,Hành động
 1000219,&Views,
 1000180,&Actions,
 1000181,&Edit,
@@ -166,23 +166,23 @@ id <u(id)>, version <version></color>",
 1000225,&Home,
 1000226,&Back,
 1000227,&Forward,
-1000228,Exit Application,
+1000228,Exit Application,Thoát ứng dụng
 1000229,Misc,
 1000230,Home,
-1000231,Previous,
-1000232,Next,
-1000233,Copy,
-1000234,Cut,
-1000235,Paste,
-1000236,Duplicate,
+1000231,Previous,Trước đó
+1000232,Next,Tiếp theo
+1000233,Copy,Sao chép
+1000234,Cut,Cắt
+1000235,Paste,Dán
+1000236,Duplicate,Nhân đôi
 1000137,New Element,
 1000138,New XTemplate,
 1000139,Preview XTemplate,
-1000615,Delete,
+1000615,Delete,Xóa
 1000245,Redo,
-1000616,OK,
+1000616,OK,OK
 1000246,Cancel,
-1000617,OK,
+1000617,OK,OK
 1000247,Cancel,
 1000140,Hide/show all properties with default values,
 189736641365,View Object,
@@ -198,31 +198,31 @@ id <u(id)>, version <version></color>",
 400353986243,Open Folder,
 186760604064,Test,
 342669996355,Upload,
-487939677892,Help,
+487939677892,Help,Trợ giúp
 833734167742,Delete Item,
 1000249,Redo,
 125522858940,New Item,
 1000142,New <u(item_name)>,
 888280433864,File,
-1000143,New Mod,
-885629433849,Load,
-327465361219,Edit,
-408637015506,Delete Mod,
-791482327441,Help,
+1000143,New Mod,Mod mới
+885629433849,Load,Tải
+327465361219,Edit,Sửa
+408637015506,Delete Mod,Xóa Mod
+791482327441,Help,Trợ giúp
 234124121113,Fetch from selection,
-1000716,Reapply All,
+1000716,Reapply All,Áp dụng lại tất cả
 377547327617,New Prg,
-301269983303,Save,
+301269983303,Save,Lưu
 102133798674,Move Out,
 978910231685,Move In,
-505747953509,Delete,
+505747953509,Delete,Xóa
 1000250,Redo,
 1000251,Prg,
 298035641454,Object,
 167400996647,Move,
 382567554252,Slot,
-283142739680,Game,
-699872370171,Condition,
+283142739680,Game,Game
+699872370171,Condition,Điều kiện
 294879472859,Rollover Mode,
 464156353043,Inspect Focused Window,
 437848878733,Toggle Focus Logging,
@@ -230,12 +230,12 @@ id <u(id)>, version <version></color>",
 741286422920,Toggle Context Logging,
 1000144,<class> <color 128 128 128><Id><PlacementText>,
 1000252,New Update Available,
-1000253,Download & Install,
+1000253,Download & Install,Download & Cài đặt
 1000254,Cancel,
-1000255,Download error,
-1000256,"Download failed, please try again later.",
+1000255,Download error,Download lỗi
+1000256,"Download failed, please try again later.","Download lỗi, vui lòng thử lại sau."
 1000257,Connected to <host>:<port>,Đã kết nối tới <host>:<port>
-1000258,game <game>,
+1000258,game <game>,game <game>
 1000259,<newline>sent <events_sent_ps> received <events_received_ps>,
 1000260,<newline>Advance limit <advance>(<more>),
 1000618,Idle,
@@ -254,9 +254,9 @@ id <u(id)>, version <version></color>",
 1000156,ActionFXMouseIn,
 1000157,ActionFXBtnPressed,
 1000158,ActionFXBtnPressedDisabled,
-1000262,<arg1> R,
-1000263,<arg1> G,
-1000264,<arg1> B,
+1000262,<arg1> R,<arg1> R
+1000263,<arg1> G,<arg1> G
+1000264,<arg1> B,<arg1> B
 1000265,On,
 1000266,Off,
 1000267,(press any key),(nhấn phím bất kỳ)
@@ -273,10 +273,10 @@ id <u(id)>, version <version></color>",
 1000278,Pagedown,Pagedown
 1000279,End,End
 1000280,Home,Home
-1000281,Left,
-1000282,Up,
-1000283,Right,
-1000284,Down,
+1000281,Left,Left
+1000282,Up,Up
+1000283,Right,Right
+1000284,Down,Down
 1000285,PrtScr,PrtScr
 1000286,Insert,Insert
 1000287,Delete,Delete
@@ -365,7 +365,7 @@ id <u(id)>, version <version></color>",
 1000369,\,\
 1000370,],]
 1000371,','
-1000372,<current_page> / <total_pages>,
+1000372,<current_page> / <total_pages>,<current_page> / <total_pages>
 1000620,Warning,Cảnh báo
 1000621,Windows Input Method Editor may cause flickering when in Fullscreen.,
 1000373,"droid, 12, aa","droid, 12, aa"
@@ -445,7 +445,7 @@ id <u(id)>, version <version></color>",
 1000413,Hungarian,
 1000414,Polish,
 1000415,Japanese,
-1000444,<actor>: <text>,
+1000444,<actor>: <text>,<actor>: <text>
 1000165,<class> <Id>,
 1000445,Backspace,Backspace
 1000446,Tab,Tab
@@ -530,15 +530,15 @@ id <u(id)>, version <version></color>",
 1000525,F10,F10
 1000526,F11,F11
 1000527,F12,F12
-1000528,Num Lock,
-1000529,Scroll Lock,
-1000530,Pause,
-1000531,L Shift,
-1000532,R Shift,
-1000533,L Ctrl,
-1000534,R Ctrl,
-1000535,L Alt,
-1000536,R Alt,
+1000528,Num Lock,Num Lock
+1000529,Scroll Lock,Scroll Lock
+1000530,Pause,Pause
+1000531,L Shift,Shift trái
+1000532,R Shift,Shift phải
+1000533,L Ctrl,Ctrl trái
+1000534,R Ctrl,Ctrl phải
+1000535,L Alt,Alt trái
+1000536,R Alt,Alt phải
 1000537,;,;
 1000538,=,=
 1000539,",",","
@@ -553,7 +553,7 @@ id <u(id)>, version <version></color>",
 1000548,','
 1000160,Lwin,
 1000161,Rwin,
-1000162,Menu,
+1000162,Menu,Menu
 1000549,if <condition> then,
 1000550,else,
 1000551,else if <condition> then,
@@ -648,14 +648,14 @@ id <u(id)>, version <version></color>",
 606395244135,Save,
 876718755482,Move Up,
 882087082346,Move Down,
-885977304658,Undo,
-711130941438,Redo,
-606667192825,Cut,
-300588080799,Copy,
-733420793888,Paste,
-675205898362,Duplicate,
-398847925160,New,
-1000198,<info>,
+885977304658,Undo,Undo
+711130941438,Redo,Redo
+606667192825,Cut,Cắt
+300588080799,Copy,Sao chép
+733420793888,Paste,Dán
+675205898362,Duplicate,Nhân đôi
+398847925160,New,Mới
+1000198,<info>,<info>
 1000199,Two too many,
 1000200,AQj,
 1000201,Action 1,
@@ -664,10 +664,10 @@ id <u(id)>, version <version></color>",
 243550090910,File,
 357531548191,Edit,
 1000204,View,
-1000205,New File,
-1000206,Open File,
+1000205,New File,Tệp mới
+1000206,Open File,Mở tệp
 131428313273,-----,-----
-238591151127,Exit,
+238591151127,Exit,Thoát
 1000237,Please select installation type,
 1000238,Not enough free disk space in,
 1000239,Typical,
@@ -752,7 +752,7 @@ id <u(id)>, version <version></color>",
 4935,"Reach $100,000 M",
 4936,"Wubba, lubba, dub, dub!",
 4937,Built 1000 buildings,
-4938,Build 1000 buildings,
+4938,Build 1000 buildings,Xây 1000 công trình
 4939,You can't take the Sky from Me!,
 4940,Landed 50 Rockets on Mars in a single playthrough,
 4941,Land 50 Rockets on Mars in a single playthrough,
@@ -1971,17 +1971,17 @@ Suggested Building: <em>Infirmary</em>",
 4250,Dust Storm,
 5627,Great Dust Storm,
 5628,Electrostatic Dust Storm,
-5635,No Oxygen,
-5636,Domes without Oxygen: <count>,
+5635,No Oxygen,Không có Oxy
+5636,Domes without Oxygen: <count>,Mái vòm không có Oxy: <count>
 7050,We have an Oxygen shortage,
-5637,No Water,
-5638,Domes without Water: <count>,
+5637,No Water,Không có Nước
+5638,Domes without Water: <count>,Mái vòm không có Nước: <count>
 7051,We have a Water shortage,
-5581,No Power,
-5639,Domes without Power: <count>,
+5581,No Power,Không có Điện
+5639,Domes without Power: <count>,Mái vòm không có Điện: <count>
 7033,We have a Power shortage,
 5640,Resources are low,
-5641,<low_on_resource_text> <resources>,
+5641,<low_on_resource_text> <resources>,<low_on_resource_text> <resources>
 7052,Resources are low,
 5642,Depleted Deposits,
 5643,Depleted deposits: <count>,
@@ -2624,7 +2624,7 @@ We faced a difficult decision, but at the end, it was a matter of simple pragmat
 5814,"Mankind's ingenuity had found a myriad of applications for it. But we focused our plan on a much simpler, more vital role in our growing Colony – RTGs. Free energy for everyone!
 
 <effect>Tech Boost (10%) to all Physics Technologies.",
-5815,Excellent!,
+5815,Excellent!,Xuất sắc!
 7172,"The Rover went dark for five hours. When it rebooted, it confirmed it had come into contact with an unusually high-voltage electrical charge.",
 5816,"The red alert was sounded immediately after we lost contact with the RC Explorer vehicle. Five long hours of fear and desperation ended with the reinstating of data feed. A wave of relief passed through the crowd of scientists gathered at the control center. The telescopic drill used to probe the crust at the Anomaly site disturbed a layer of magnetite-rich rocks, the source of the electric charge. The rover is still functional but it would take time before its locomotion systems are fully restored. The operators turned the defeat into a victory, devoting the unexpected time window to studying the magnetic properties of the Martian crust.
 
@@ -5977,7 +5977,7 @@ Services: <em><list></em>",
 539,Unused production<right><air(number)>,
 540,Insufficient production<right><air(number)>,
 1064,Life Support Pipe,
-1065,Water production,
+1065,Water production,Sản xuất nước
 482,"Hourly production<right><water(number1,number2)>",
 483,Hourly production<right><water(number)>,
 479,Production capacity<right><water(production)>,
@@ -5985,11 +5985,11 @@ Services: <em><list></em>",
 481,Lifetime production<right><water(production_lifetime)>,
 469,<newline><center><em>Storage</em>,
 471,"Waste Rock<right><wasterock(GetWasterockAmountStored,wasterock_max_storage)>",
-1066,Oxygen production,
+1066,Oxygen production,Sản xuất Oxy
 484,Daily production<right><air(ProductionEstimate)>,
 485,Lifetime production<right><air(production_lifetime)>,
-656,Water consumption,
-1067,Oxygen consumption,
+656,Water consumption,Tiêu thụ nước
+1067,Oxygen consumption,Tiêu thụ Oxy
 29,Max water consumption while charging,
 1068,Max water output while discharging,
 1069,Conversion efficiency % of water (charging),
@@ -6000,7 +6000,7 @@ Services: <em><list></em>",
 1072,Conversion Oxygen efficiency % (charging),
 1073,Oxygen Capacity,
 1074,Stored Air,
-8674,Autosave to Cloud,
+8674,Autosave to Cloud,Tự động lưu vào Cloud
 7639,Mission Evaluation received,
 7640,Mission Evaluation,
 7641,Mission Evaluation incoming,
@@ -6020,12 +6020,12 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1081,Collected all remaining Surviving Mars trophies,
 7808,Credits,Tác giả
 7809,CREDITS,TÁC GIẢ
-8057,Switch To Controller?,
-7810,Do you want to command the game with a controller?,
+8057,Switch To Controller?,Chuyển sang tay cầm?
+7810,Do you want to command the game with a controller?,Bạn muốn chơi Game bằng tay cầm?
 7872,There are colonists suffering from status effects.,
-7935,Wireless Controller,
+7935,Wireless Controller,Tay cầm không dây
 7936,Wireless controller for <user> has been disconnected. Reconnect the wireless controller in order to continue.,
-7938,I am above the age of 13,
+7938,I am above the age of 13,Tôi trên 13 tuổi
 8650,This savegame cannot be loaded by the current version of the game.,
 1082,South Cap,
 1083,North Cap,
@@ -6057,7 +6057,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1156,Bonus score expiration Sols,
 1157,Complete thread,
 1158,Custom score,
-1159,<display_name> - Sol <sol>,
+1159,<display_name> - Sol <sol>,<display_name> - Sol <sol>
 8058,Have <target> Colonists at Sol <timeout>. Current Colonists Count: <count>,
 8059,Have <target> Martianborn Colonists at Sol <timeout>. Current Martianborn Count: <count>,
 8060,Have <target> Technologies researched at Sol <timeout>. Currently Researched Technologies: <count>,
@@ -6078,8 +6078,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1000078,Rotate Roll,
 1000079,Rotate Pitch,
 1000080,Rotate Yaw,
-1000081,Scale,
-1000082,Color,
+1000081,Scale,Tỉ lệ
+1000082,Color,Màu
 1000083,When to Anchor,
 1000084,Anchor X-axis,
 1000085,Anchor Y-axis,
@@ -6157,276 +6157,276 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8072,The Last War (Hard),
 8073,"""Mankind must put an end to war before war puts an end to mankind.""<newline><right>- John F. Kennedy",
 1222,UK,
-1233,Mars,
-1235,Washington,
-1236,Adams,
-1239,Van Buren,
-1244,Cleveland,
-1245,Roosevelt,
-1246,Hoover,
-1247,Truman,
-1248,Nixon,
-1249,Reagan,
-1250,Franklin,
-1251,Lamarr,
-1252,Tesla,
-1253,Sagan,
-1254,Carver,
-1255,Fuller,
-1256,Oppenheimer,
-1257,Fermi,
-1258,Pauling,
-1259,Salk,
-1261,Freidman,
-1262,Goddard,
-1263,Calvin,
-1264,Neumann,
-1266,El-Baz,
-1267,Amundsen,
-1268,Boone,
-1271,Lewis,
-1272,Gray,
-1273,Peary,
-1274,Pike,
-1275,Smith,
-1276,Sacagawea,
-6782,Dunant,
-6783,Passy,
-6784,Ducommun,
-6785,Gobat,
-6786,Cremer,
-6787,Von Suttner,
-6788,Moneta,
-6789,Renault,
-6790,Arnoldson,
-6791,Bajer,
-6792,Beernaert,
-6793,De Constant,
-6794,Asser,
-6795,Fried,
-6796,Root,
-6797,La Fontaine,
-6798,Bourgeois,
-6799,Branting,
-6800,Lange,
-6801,Chamberlain,
-6802,Dawes,
-6803,Briand,
-6804,Stresemann,
-6805,Buisson,
-6806,Quidde,
-1260,Resnik,
-6807,Kellogg,
-6808,Addams,
-6809,Butler,
-6810,Angell,
-6811,Henderson,
-6812,Lamas,
-6813,Hull,
-6814,Balch,
-6815,Mott,
-6816,Boyd-Orr,
-6817,Bunche,
-6818,Jouhaux,
-6819,Schweitzer,
-6820,Marshall,
-6821,Pearson,
-6822,Pire,
-1277,Bolshoy,
-1278,Zhizniy,
-1279,Domoy,
-1280,Slovo,
-1281,Vsegda,
-1282,Pravda,
-1283,Svet,
-1284,Doroga,
-1285,Dalekiy,
-1286,Narodniy,
-1287,Neba,
-1288,Krasota,
-1289,Mir,
-1290,Volya,
-1291,Pobeda,
-1292,Khrabrost,
-1293,Uspekh,
-1294,Solntse,
-1295,Velikiy,
-1296,Trud,
-1297,Tikhiy,
-1298,Silniy,
-1299,Zeleniy,
-1300,Vpered,
-1301,Krasiviy,
-1302,Dukh,
-1303,Razvitie,
-1304,Reshenie,
-1305,Zhelezniy,
-1306,Soznanie,
-1307,Nadezhda,
-1308,Tsvetok,
-1309,Zhelanie,
-1310,Sovet,
-1311,Ostrorozhno,
-1312,Zdoroviy,
-1313,Prikaz,
-1314,Slava,
-1315,Glasnost,
-1317,Podvig,
-1318,Pythagoras,
-1319,Aristotle,
-1320,Peregrinus,
-1321,Copernicus,
-1322,Paracelsus,
-1323,Galilei,
-1324,Boyle,
-1325,Newton,
-1326,Darwin,
-1327,Planck,
-1328,Einstein,
-1329,Crick,
-1330,Bohr,
-1331,Lavoisier,
-1332,Kepler,
-1333,Faraday,
-1334,Maxwell,
-1336,Boas,
-1337,Heisenberg,
-1338,Virchow,
-1339,Schrodinger,
-1340,Dirac,
-1341,Brahe,
-1342,Buffon,
-1343,Boltzmann,
-1344,Curie,
-1345,Herschel,
-1346,Lyell,
-1347,Laplace,
-1348,Thomson,
-1349,Born,
-1350,Euler,
-1351,Liebig,
-1352,Eddington,
-1353,Huygens,
-1354,Gauss,
-1355,Kekule,
-1359,Hawking,
-1360,Von Laue,
-1361,Kirchhoff,
-1362,Euclid,
-1363,Mendel,
-1364,Lamarck,
-1365,Sanger,
-1367,Lorenz,
-1368,Lagrange,
-1370,Humboldt,
-1371,Kegel,
-1372,Natchtigal,
-1373,Staden,
-1358,Wegener,
-1374,Ingstad,
-1375,Nansen,
-1376,Piccard,
-1377,Everest,
-1378,Zhulong,
-1379,Yinglong,
-1380,Tianlong,
-1381,Teng,
-1382,Qiulong,
-1383,Fenghuang,
-1384,Jiaolong,
-1385,Huli Jing,
-1386,Hong,
-1387,Bixi,
-1388,Huanglong,
-1389,Shenlong,
-1390,Quilong,
-1391,Pulao,
-1392,Panlong,
-1393,Fucanglong,
-1394,Feilong,
-1395,Feilian,
-1396,Dialong,
-1397,Chiwen,
-1398,Quinglong,
-1399,Ao Guang,
-1400,Bian,
-1401,Chaofeng,
-1402,Chi Wen,
-1403,Fuxi,
-1404,Qiu Niu,
-1405,Suan Ni,
-1406,Ya Zi,
-1407,He Xian'gu,
-1408,Cao Guojiu,
-1409,Li Tieguai,
-1410,Lan Tsai-Ho,
-1411,Lu Tung-Pin,
-1412,Han Xiangzi,
-1413,Zhang Guolao,
-1414,Zhongli Quan,
-1415,Mitra,
-1416,Vasu,
-1417,Sakra,
-1418,Daksa,
-1419,Ansa,
-1420,Bhaga,
-1421,Vivasvat,
-1422,Tvastr,
-1423,Pusan,
-1424,Dhat,
-1425,Yama,
-1426,Agni,
-1427,Vayu,
-1428,Dyaus,
-1429,Prthivi,
-1432,Aha,
-1433,Dhruva,
-1434,Yamini,
-1435,Renuka,
-1436,Yaksha,
-1437,Valli,
-1430,Surya,
-1438,Vamana,
-1439,Lakshmi,
-1441,Rama,
-1442,Parashurama,
-1443,Matsya,
-1444,Kurma,
-1445,Varaha,
-1446,Narasimha,
-1448,Lingam,
-1449,Kailash,
-1450,Bhairava,
-1451,Ishana,
-1452,Vamadeva,
-1453,Parvati,
-1454,Sati,
-1455,Ganesha,
-1456,Nandi,
-1457,Nataraja,
-1458,Kashyapa,
-1459,Vyasa,
-1460,Kalidasa,
-1461,Chandra,
-1462,Radha,
-1463,Sita,
-1464,Rukmini,
-1465,Virasena,
-1466,Mahavira,
-1467,Shridhara,
-1468,Manjula,
-1469,Aryabhata,
-1470,Shripati,
-1471,Chakravati,
-1472,Bhaskara,
-1473,Lagadha,
-1474,Brahmagupta,
-1475,Varahamihira,
-1476,Lalla,
-1477,Mahendra Suri,
-1478,Pisarati,
-1479,Ramanujan,
-1480,Negada,
+1233,Mars,Mars
+1235,Washington,Washington
+1236,Adams,Adams
+1239,Van Buren,Van Buren
+1244,Cleveland,Cleveland
+1245,Roosevelt,Roosevelt
+1246,Hoover,Hoover
+1247,Truman,Truman
+1248,Nixon,Nixon
+1249,Reagan,Reagan
+1250,Franklin,Franklin
+1251,Lamarr,Lamarr
+1252,Tesla,Tesla
+1253,Sagan,Sagan
+1254,Carver,Carver
+1255,Fuller,Fuller
+1256,Oppenheimer,Oppenheimer
+1257,Fermi,Fermi
+1258,Pauling,Pauling
+1259,Salk,Salk
+1261,Freidman,Freidman
+1262,Goddard,Goddard
+1263,Calvin,Calvin
+1264,Neumann,Neumann
+1266,El-Baz,El-Baz
+1267,Amundsen,Amundsen
+1268,Boone,Boone
+1271,Lewis,Lewis
+1272,Gray,Gray
+1273,Peary,Peary
+1274,Pike,Pike
+1275,Smith,Smith
+1276,Sacagawea,Sacagawea
+6782,Dunant,Dunant
+6783,Passy,Passy
+6784,Ducommun,Ducommun
+6785,Gobat,Gobat
+6786,Cremer,Cremer
+6787,Von Suttner,Von Suttner
+6788,Moneta,Moneta
+6789,Renault,Renault
+6790,Arnoldson,Arnoldson
+6791,Bajer,Bajer
+6792,Beernaert,Beernaert
+6793,De Constant,De Constant
+6794,Asser,Asser
+6795,Fried,Fried
+6796,Root,Root
+6797,La Fontaine,La Fontaine
+6798,Bourgeois,Bourgeois
+6799,Branting,Branting
+6800,Lange,Lange
+6801,Chamberlain,Chamberlain
+6802,Dawes,Dawes
+6803,Briand,Briand
+6804,Stresemann,Stresemann
+6805,Buisson,Buisson
+6806,Quidde,Quidde
+1260,Resnik,Resnik
+6807,Kellogg,Kellogg
+6808,Addams,Addams
+6809,Butler,Butler
+6810,Angell,Angell
+6811,Henderson,Henderson
+6812,Lamas,Lamas
+6813,Hull,Hull
+6814,Balch,Balch
+6815,Mott,Mott
+6816,Boyd-Orr,Boyd-Orr
+6817,Bunche,Bunche
+6818,Jouhaux,Jouhaux
+6819,Schweitzer,Schweitzer
+6820,Marshall,Marshall
+6821,Pearson,Pearson
+6822,Pire,Pire
+1277,Bolshoy,Bolshoy
+1278,Zhizniy,Zhizniy
+1279,Domoy,Domoy
+1280,Slovo,Slovo
+1281,Vsegda,Vsegda
+1282,Pravda,Pravda
+1283,Svet,Svet
+1284,Doroga,Doroga
+1285,Dalekiy,Dalekiy
+1286,Narodniy,Narodniy
+1287,Neba,Neba
+1288,Krasota,Krasota
+1289,Mir,Mir
+1290,Volya,Volya
+1291,Pobeda,Pobeda
+1292,Khrabrost,Khrabrost
+1293,Uspekh,Uspekh
+1294,Solntse,Solntse
+1295,Velikiy,Velikiy
+1296,Trud,Trud
+1297,Tikhiy,Tikhiy
+1298,Silniy,Silniy
+1299,Zeleniy,Zeleniy
+1300,Vpered,Vpered
+1301,Krasiviy,Krasiviy
+1302,Dukh,Dukh
+1303,Razvitie,Razvitie
+1304,Reshenie,Reshenie
+1305,Zhelezniy,Zhelezniy
+1306,Soznanie,Soznanie
+1307,Nadezhda,Nadezhda
+1308,Tsvetok,Tsvetok
+1309,Zhelanie,Zhelanie
+1310,Sovet,Sovet
+1311,Ostrorozhno,Ostrorozhno
+1312,Zdoroviy,Zdoroviy
+1313,Prikaz,Prikaz
+1314,Slava,Slava
+1315,Glasnost,Glasnost
+1317,Podvig,Podvig
+1318,Pythagoras,Pythagoras
+1319,Aristotle,Aristotle
+1320,Peregrinus,Peregrinus
+1321,Copernicus,Copernicus
+1322,Paracelsus,Paracelsus
+1323,Galilei,Galilei
+1324,Boyle,Boyle
+1325,Newton,Newton
+1326,Darwin,Darwin
+1327,Planck,Planck
+1328,Einstein,Einstein
+1329,Crick,Crick
+1330,Bohr,Bohr
+1331,Lavoisier,Lavoisier
+1332,Kepler,Kepler
+1333,Faraday,Faraday
+1334,Maxwell,Maxwell
+1336,Boas,Boas
+1337,Heisenberg,Heisenberg
+1338,Virchow,Virchow
+1339,Schrodinger,Schrodinger
+1340,Dirac,Dirac
+1341,Brahe,Brahe
+1342,Buffon,Buffon
+1343,Boltzmann,Boltzmann
+1344,Curie,Curie
+1345,Herschel,Herschel
+1346,Lyell,Lyell
+1347,Laplace,Laplace
+1348,Thomson,Thomson
+1349,Born,Born
+1350,Euler,Euler
+1351,Liebig,Liebig
+1352,Eddington,Eddington
+1353,Huygens,Huygens
+1354,Gauss,Gauss
+1355,Kekule,Kekule
+1359,Hawking,Hawking
+1360,Von Laue,Von Laue
+1361,Kirchhoff,Kirchhoff
+1362,Euclid,Euclid
+1363,Mendel,Mendel
+1364,Lamarck,Lamarck
+1365,Sanger,Sanger
+1367,Lorenz,Lorenz
+1368,Lagrange,Lagrange
+1370,Humboldt,Humboldt
+1371,Kegel,Kegel
+1372,Natchtigal,Natchtigal
+1373,Staden,Staden
+1358,Wegener,Wegener
+1374,Ingstad,Ingstad
+1375,Nansen,Nansen
+1376,Piccard,Piccard
+1377,Everest,Everest
+1378,Zhulong,Zhulong
+1379,Yinglong,Yinglong
+1380,Tianlong,Tianlong
+1381,Teng,Teng
+1382,Qiulong,Qiulong
+1383,Fenghuang,Fenghuang
+1384,Jiaolong,Jiaolong
+1385,Huli Jing,Huli Jing
+1386,Hong,Hong
+1387,Bixi,Bixi
+1388,Huanglong,Huanglong
+1389,Shenlong,Shenlong
+1390,Quilong,Quilong
+1391,Pulao,Pulao
+1392,Panlong,Panlong
+1393,Fucanglong,Fucanglong
+1394,Feilong,Feilong
+1395,Feilian,Feilian
+1396,Dialong,Dialong
+1397,Chiwen,Chiwen
+1398,Quinglong,Quinglong
+1399,Ao Guang,Ao Guang
+1400,Bian,Bian
+1401,Chaofeng,Chaofeng
+1402,Chi Wen,Chi Wen
+1403,Fuxi,Fuxi
+1404,Qiu Niu,Qiu Niu
+1405,Suan Ni,Suan Ni
+1406,Ya Zi,Ya Zi
+1407,He Xian'gu,He Xian'gu
+1408,Cao Guojiu,Cao Guojiu
+1409,Li Tieguai,Li Tieguai
+1410,Lan Tsai-Ho,Lan Tsai-Ho
+1411,Lu Tung-Pin,Lu Tung-Pin
+1412,Han Xiangzi,Han Xiangzi
+1413,Zhang Guolao,Zhang Guolao
+1414,Zhongli Quan,Zhongli Quan
+1415,Mitra,Mitra
+1416,Vasu,Vasu
+1417,Sakra,Sakra
+1418,Daksa,Daksa
+1419,Ansa,Ansa
+1420,Bhaga,Bhaga
+1421,Vivasvat,Vivasvat
+1422,Tvastr,Tvastr
+1423,Pusan,Pusan
+1424,Dhat,Dhat
+1425,Yama,Yama
+1426,Agni,Agni
+1427,Vayu,Vayu
+1428,Dyaus,Dyaus
+1429,Prthivi,Prthivi
+1432,Aha,Aha
+1433,Dhruva,Dhruva
+1434,Yamini,Yamini
+1435,Renuka,Renuka
+1436,Yaksha,Yaksha
+1437,Valli,Valli
+1430,Surya,Surya
+1438,Vamana,Vamana
+1439,Lakshmi,Lakshmi
+1441,Rama,Rama
+1442,Parashurama,Parashurama
+1443,Matsya,Matsya
+1444,Kurma,Kurma
+1445,Varaha,Varaha
+1446,Narasimha,Narasimha
+1448,Lingam,Lingam
+1449,Kailash,Kailash
+1450,Bhairava,Bhairava
+1451,Ishana,Ishana
+1452,Vamadeva,Vamadeva
+1453,Parvati,Parvati
+1454,Sati,Sati
+1455,Ganesha,Ganesha
+1456,Nandi,Nandi
+1457,Nataraja,Nataraja
+1458,Kashyapa,Kashyapa
+1459,Vyasa,Vyasa
+1460,Kalidasa,Kalidasa
+1461,Chandra,Chandra
+1462,Radha,Radha
+1463,Sita,Sita
+1464,Rukmini,Rukmini
+1465,Virasena,Virasena
+1466,Mahavira,Mahavira
+1467,Shridhara,Shridhara
+1468,Manjula,Manjula
+1469,Aryabhata,Aryabhata
+1470,Shripati,Shripati
+1471,Chakravati,Chakravati
+1472,Bhaskara,Bhaskara
+1473,Lagadha,Lagadha
+1474,Brahmagupta,Brahmagupta
+1475,Varahamihira,Varahamihira
+1476,Lalla,Lalla
+1477,Mahendra Suri,Mahendra Suri
+1478,Pisarati,Pisarati
+1479,Ramanujan,Ramanujan
+1480,Negada,Negada
 1481,Adanos,
 1482,Aeris,
 1483,Andes,
